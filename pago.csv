@@ -1,0 +1,1001 @@
+codigo_pago,metodo,factura
+1,tarjeta de debito,441-822
+2,tarjeta de debito,274-664
+3,mercado pago,585-323
+4,tarjeta de credito,041-192
+5,tarjeta de debito,790-893
+6,mercado pago,699-328
+7,tarjeta de debito,977-424
+8,tarjeta de debito,041-825
+9,mercado pago,280-291
+10,mercado pago,685-531
+11,tarjeta de credito,895-044
+12,mercado pago,482-431
+13,tarjeta de credito,357-311
+14,mercado pago,491-482
+15,mercado pago,040-963
+16,tarjeta de credito,555-369
+17,mercado pago,133-573
+18,tarjeta de debito,718-875
+19,mercado pago,711-690
+20,tarjeta de debito,175-547
+21,tarjeta de credito,243-794
+22,mercado pago,370-056
+23,tarjeta de debito,849-084
+24,tarjeta de credito,200-307
+25,tarjeta de credito,850-922
+26,mercado pago,541-558
+27,tarjeta de debito,128-758
+28,tarjeta de credito,263-131
+29,mercado pago,308-145
+30,tarjeta de debito,512-050
+31,mercado pago,206-171
+32,tarjeta de credito,379-487
+33,mercado pago,536-388
+34,tarjeta de debito,805-131
+35,tarjeta de debito,443-897
+36,tarjeta de debito,526-738
+37,tarjeta de credito,879-327
+38,tarjeta de credito,597-336
+39,tarjeta de credito,612-543
+40,tarjeta de credito,201-151
+41,mercado pago,253-913
+42,mercado pago,047-543
+43,tarjeta de debito,360-433
+44,tarjeta de credito,583-639
+45,mercado pago,424-239
+46,tarjeta de credito,693-604
+47,tarjeta de credito,547-598
+48,mercado pago,772-091
+49,tarjeta de debito,106-762
+50,mercado pago,200-703
+51,mercado pago,521-385
+52,tarjeta de credito,993-858
+53,tarjeta de debito,244-181
+54,tarjeta de debito,202-040
+55,mercado pago,594-495
+56,tarjeta de credito,621-749
+57,mercado pago,011-923
+58,tarjeta de debito,432-085
+59,tarjeta de debito,855-403
+60,tarjeta de debito,929-995
+61,tarjeta de credito,886-528
+62,mercado pago,277-117
+63,mercado pago,619-839
+64,mercado pago,220-790
+65,tarjeta de credito,685-007
+66,mercado pago,556-254
+67,tarjeta de credito,655-715
+68,mercado pago,821-086
+69,mercado pago,974-541
+70,tarjeta de debito,860-667
+71,tarjeta de debito,141-727
+72,tarjeta de debito,111-108
+73,tarjeta de credito,230-319
+74,tarjeta de credito,680-431
+75,tarjeta de debito,509-517
+76,tarjeta de credito,818-863
+77,mercado pago,402-161
+78,tarjeta de debito,226-005
+79,mercado pago,031-418
+80,tarjeta de debito,349-461
+81,tarjeta de debito,865-397
+82,tarjeta de debito,223-126
+83,tarjeta de credito,357-988
+84,tarjeta de credito,396-572
+85,mercado pago,213-493
+86,tarjeta de credito,520-617
+87,mercado pago,884-238
+88,mercado pago,457-394
+89,tarjeta de credito,897-446
+90,mercado pago,313-588
+91,tarjeta de debito,233-387
+92,tarjeta de credito,080-599
+93,tarjeta de debito,644-512
+94,tarjeta de credito,259-859
+95,mercado pago,482-717
+96,tarjeta de debito,570-546
+97,mercado pago,732-642
+98,mercado pago,512-185
+99,mercado pago,355-020
+100,mercado pago,337-935
+101,tarjeta de debito,648-165
+102,mercado pago,287-199
+103,tarjeta de credito,650-775
+104,mercado pago,695-194
+105,mercado pago,104-334
+106,tarjeta de debito,024-780
+107,mercado pago,409-339
+108,tarjeta de credito,484-352
+109,tarjeta de credito,626-155
+110,mercado pago,341-206
+111,mercado pago,008-429
+112,mercado pago,106-654
+113,mercado pago,570-901
+114,mercado pago,143-680
+115,tarjeta de debito,894-409
+116,tarjeta de credito,543-352
+117,tarjeta de debito,495-504
+118,tarjeta de debito,859-410
+119,tarjeta de credito,017-647
+120,tarjeta de debito,334-712
+121,tarjeta de debito,148-692
+122,mercado pago,085-259
+123,tarjeta de debito,143-826
+124,mercado pago,405-049
+125,tarjeta de credito,426-380
+126,tarjeta de credito,229-723
+127,tarjeta de debito,323-959
+128,mercado pago,522-812
+129,tarjeta de debito,353-435
+130,tarjeta de debito,884-079
+131,tarjeta de debito,932-294
+132,tarjeta de debito,457-410
+133,tarjeta de debito,336-466
+134,tarjeta de debito,046-597
+135,tarjeta de credito,094-077
+136,tarjeta de debito,947-926
+137,mercado pago,330-366
+138,tarjeta de credito,089-163
+139,tarjeta de credito,715-967
+140,mercado pago,230-780
+141,mercado pago,325-412
+142,tarjeta de credito,584-044
+143,mercado pago,344-516
+144,tarjeta de debito,963-585
+145,tarjeta de credito,683-673
+146,mercado pago,773-062
+147,mercado pago,268-054
+148,tarjeta de debito,151-891
+149,tarjeta de debito,930-750
+150,tarjeta de debito,199-491
+151,mercado pago,425-874
+152,tarjeta de credito,371-772
+153,mercado pago,759-196
+154,mercado pago,619-106
+155,tarjeta de debito,604-166
+156,tarjeta de credito,571-913
+157,mercado pago,679-601
+158,tarjeta de credito,116-319
+159,mercado pago,396-579
+160,tarjeta de debito,294-002
+161,tarjeta de debito,744-940
+162,tarjeta de credito,248-746
+163,mercado pago,713-519
+164,mercado pago,830-699
+165,tarjeta de debito,495-342
+166,mercado pago,546-010
+167,tarjeta de credito,225-947
+168,tarjeta de debito,755-217
+169,mercado pago,675-809
+170,tarjeta de credito,133-444
+171,tarjeta de credito,520-418
+172,tarjeta de debito,019-533
+173,mercado pago,741-577
+174,tarjeta de debito,084-229
+175,tarjeta de debito,915-944
+176,mercado pago,370-172
+177,tarjeta de credito,868-480
+178,mercado pago,993-589
+179,mercado pago,844-411
+180,tarjeta de credito,794-309
+181,mercado pago,034-034
+182,mercado pago,564-420
+183,tarjeta de debito,389-965
+184,tarjeta de credito,723-192
+185,tarjeta de debito,858-902
+186,mercado pago,656-559
+187,tarjeta de credito,313-099
+188,tarjeta de credito,670-670
+189,tarjeta de credito,954-321
+190,mercado pago,905-080
+191,tarjeta de debito,557-544
+192,tarjeta de debito,626-944
+193,mercado pago,655-699
+194,tarjeta de credito,201-439
+195,tarjeta de credito,693-915
+196,tarjeta de credito,868-384
+197,tarjeta de credito,288-809
+198,tarjeta de credito,992-488
+199,mercado pago,930-669
+200,mercado pago,827-409
+201,tarjeta de debito,197-393
+202,tarjeta de debito,994-411
+203,tarjeta de debito,033-729
+204,tarjeta de credito,730-394
+205,tarjeta de debito,969-009
+206,tarjeta de debito,814-341
+207,mercado pago,943-549
+208,mercado pago,560-680
+209,tarjeta de debito,967-968
+210,mercado pago,749-802
+211,tarjeta de credito,637-686
+212,mercado pago,593-561
+213,mercado pago,766-146
+214,tarjeta de credito,774-855
+215,mercado pago,804-914
+216,mercado pago,723-376
+217,tarjeta de debito,162-812
+218,mercado pago,017-691
+219,mercado pago,198-757
+220,tarjeta de debito,911-135
+221,tarjeta de credito,866-738
+222,mercado pago,146-154
+223,tarjeta de debito,682-431
+224,tarjeta de credito,412-568
+225,tarjeta de credito,211-516
+226,tarjeta de debito,890-432
+227,mercado pago,960-536
+228,tarjeta de credito,025-878
+229,mercado pago,233-138
+230,tarjeta de credito,971-399
+231,tarjeta de debito,406-676
+232,tarjeta de credito,785-024
+233,mercado pago,250-628
+234,tarjeta de credito,535-314
+235,tarjeta de debito,864-399
+236,tarjeta de debito,229-111
+237,tarjeta de credito,950-772
+238,tarjeta de credito,603-768
+239,tarjeta de debito,047-680
+240,tarjeta de debito,896-083
+241,tarjeta de debito,129-453
+242,tarjeta de debito,836-971
+243,tarjeta de debito,899-027
+244,tarjeta de credito,661-031
+245,mercado pago,323-286
+246,tarjeta de debito,164-982
+247,mercado pago,666-549
+248,tarjeta de debito,495-672
+249,tarjeta de credito,183-080
+250,mercado pago,678-101
+251,tarjeta de credito,638-949
+252,tarjeta de credito,071-860
+253,tarjeta de credito,167-966
+254,tarjeta de debito,487-595
+255,mercado pago,224-122
+256,tarjeta de debito,828-138
+257,tarjeta de debito,892-304
+258,tarjeta de debito,553-652
+259,tarjeta de debito,544-091
+260,tarjeta de credito,762-704
+261,tarjeta de credito,993-797
+262,tarjeta de credito,375-270
+263,tarjeta de credito,061-551
+264,mercado pago,019-651
+265,mercado pago,351-032
+266,tarjeta de credito,070-300
+267,tarjeta de debito,225-802
+268,mercado pago,447-697
+269,mercado pago,817-392
+270,tarjeta de debito,720-931
+271,mercado pago,833-254
+272,tarjeta de debito,125-227
+273,tarjeta de debito,966-912
+274,mercado pago,756-523
+275,tarjeta de credito,695-162
+276,mercado pago,221-227
+277,tarjeta de debito,760-674
+278,tarjeta de credito,690-464
+279,mercado pago,594-776
+280,tarjeta de debito,270-145
+281,tarjeta de debito,145-257
+282,mercado pago,689-011
+283,mercado pago,869-152
+284,tarjeta de debito,867-364
+285,tarjeta de debito,755-113
+286,mercado pago,214-734
+287,tarjeta de debito,172-322
+288,tarjeta de credito,161-770
+289,tarjeta de credito,109-549
+290,tarjeta de debito,107-073
+291,tarjeta de credito,976-384
+292,tarjeta de debito,011-807
+293,tarjeta de debito,177-437
+294,tarjeta de debito,427-512
+295,tarjeta de credito,323-014
+296,tarjeta de debito,776-591
+297,mercado pago,099-481
+298,tarjeta de debito,784-468
+299,mercado pago,756-159
+300,tarjeta de debito,207-379
+301,tarjeta de credito,273-607
+302,tarjeta de credito,506-643
+303,tarjeta de debito,087-127
+304,mercado pago,652-877
+305,tarjeta de debito,985-667
+306,tarjeta de credito,235-074
+307,mercado pago,594-216
+308,mercado pago,513-986
+309,tarjeta de credito,624-214
+310,tarjeta de credito,355-864
+311,tarjeta de credito,955-423
+312,tarjeta de credito,680-108
+313,tarjeta de credito,821-997
+314,tarjeta de credito,331-187
+315,tarjeta de credito,968-306
+316,mercado pago,660-022
+317,tarjeta de credito,133-662
+318,tarjeta de credito,655-502
+319,tarjeta de credito,060-164
+320,tarjeta de debito,983-101
+321,mercado pago,986-156
+322,tarjeta de debito,923-741
+323,mercado pago,956-196
+324,mercado pago,554-570
+325,tarjeta de debito,113-183
+326,tarjeta de debito,975-212
+327,mercado pago,844-063
+328,tarjeta de credito,202-993
+329,tarjeta de debito,127-133
+330,tarjeta de credito,809-882
+331,tarjeta de debito,624-736
+332,tarjeta de debito,362-086
+333,tarjeta de credito,532-753
+334,tarjeta de debito,141-045
+335,mercado pago,244-932
+336,mercado pago,803-211
+337,tarjeta de debito,996-317
+338,tarjeta de credito,726-057
+339,tarjeta de debito,437-930
+340,tarjeta de credito,822-950
+341,tarjeta de debito,476-735
+342,mercado pago,243-184
+343,tarjeta de credito,976-184
+344,tarjeta de debito,706-416
+345,tarjeta de debito,669-542
+346,tarjeta de debito,121-982
+347,tarjeta de credito,760-809
+348,mercado pago,627-721
+349,tarjeta de credito,369-095
+350,mercado pago,033-463
+351,mercado pago,795-620
+352,tarjeta de credito,179-950
+353,tarjeta de credito,109-439
+354,tarjeta de credito,272-402
+355,tarjeta de credito,705-723
+356,mercado pago,820-402
+357,tarjeta de credito,200-745
+358,tarjeta de debito,820-840
+359,mercado pago,756-999
+360,tarjeta de credito,610-278
+361,tarjeta de credito,751-256
+362,mercado pago,429-311
+363,mercado pago,063-939
+364,tarjeta de debito,326-132
+365,tarjeta de debito,945-488
+366,tarjeta de credito,068-975
+367,mercado pago,843-153
+368,tarjeta de credito,684-018
+369,mercado pago,143-235
+370,tarjeta de credito,564-236
+371,mercado pago,692-967
+372,mercado pago,650-312
+373,mercado pago,960-096
+374,mercado pago,813-701
+375,tarjeta de credito,183-511
+376,tarjeta de debito,457-730
+377,tarjeta de debito,262-342
+378,tarjeta de credito,388-759
+379,tarjeta de debito,107-470
+380,tarjeta de credito,448-560
+381,tarjeta de credito,184-386
+382,mercado pago,552-915
+383,tarjeta de credito,133-501
+384,mercado pago,749-459
+385,mercado pago,539-852
+386,tarjeta de debito,820-496
+387,tarjeta de credito,619-412
+388,tarjeta de credito,903-552
+389,tarjeta de debito,396-126
+390,tarjeta de debito,819-259
+391,mercado pago,988-247
+392,tarjeta de debito,270-080
+393,tarjeta de credito,563-156
+394,tarjeta de credito,583-190
+395,tarjeta de debito,134-140
+396,tarjeta de credito,384-077
+397,tarjeta de credito,564-803
+398,tarjeta de debito,539-051
+399,mercado pago,187-491
+400,tarjeta de credito,701-083
+401,mercado pago,380-992
+402,mercado pago,284-524
+403,tarjeta de debito,951-381
+404,tarjeta de credito,501-297
+405,tarjeta de credito,334-419
+406,tarjeta de credito,614-677
+407,mercado pago,834-345
+408,tarjeta de credito,166-150
+409,tarjeta de credito,220-655
+410,mercado pago,195-907
+411,mercado pago,821-415
+412,tarjeta de credito,102-553
+413,mercado pago,991-684
+414,mercado pago,955-229
+415,mercado pago,379-761
+416,tarjeta de credito,317-883
+417,tarjeta de debito,651-880
+418,mercado pago,076-410
+419,mercado pago,769-683
+420,mercado pago,369-325
+421,mercado pago,352-895
+422,tarjeta de debito,227-895
+423,tarjeta de debito,293-386
+424,mercado pago,326-199
+425,mercado pago,752-021
+426,tarjeta de debito,367-130
+427,mercado pago,137-500
+428,tarjeta de credito,037-126
+429,mercado pago,670-071
+430,tarjeta de debito,806-432
+431,tarjeta de credito,575-421
+432,tarjeta de debito,700-281
+433,mercado pago,120-963
+434,tarjeta de debito,845-931
+435,tarjeta de debito,634-943
+436,mercado pago,059-143
+437,tarjeta de debito,100-014
+438,tarjeta de debito,489-221
+439,tarjeta de debito,828-213
+440,tarjeta de debito,769-539
+441,tarjeta de credito,237-798
+442,tarjeta de credito,044-507
+443,mercado pago,782-401
+444,tarjeta de debito,711-498
+445,mercado pago,036-191
+446,tarjeta de debito,995-192
+447,tarjeta de debito,638-557
+448,tarjeta de debito,016-088
+449,mercado pago,141-275
+450,tarjeta de credito,392-184
+451,tarjeta de credito,901-119
+452,mercado pago,235-724
+453,tarjeta de credito,025-237
+454,mercado pago,098-037
+455,tarjeta de credito,460-639
+456,tarjeta de debito,687-101
+457,tarjeta de debito,192-817
+458,tarjeta de debito,885-123
+459,mercado pago,185-742
+460,tarjeta de credito,667-879
+461,tarjeta de debito,570-369
+462,tarjeta de debito,923-980
+463,tarjeta de credito,904-360
+464,mercado pago,476-831
+465,mercado pago,485-539
+466,mercado pago,088-061
+467,tarjeta de credito,819-678
+468,tarjeta de debito,681-299
+469,mercado pago,227-305
+470,mercado pago,513-055
+471,mercado pago,590-740
+472,mercado pago,654-250
+473,mercado pago,568-026
+474,mercado pago,980-572
+475,tarjeta de debito,983-830
+476,tarjeta de credito,847-606
+477,tarjeta de debito,431-787
+478,tarjeta de debito,840-154
+479,tarjeta de credito,326-274
+480,tarjeta de debito,522-314
+481,tarjeta de credito,047-667
+482,mercado pago,607-006
+483,mercado pago,764-253
+484,tarjeta de debito,031-240
+485,tarjeta de credito,773-010
+486,mercado pago,337-200
+487,tarjeta de debito,430-712
+488,tarjeta de credito,810-071
+489,tarjeta de debito,431-695
+490,tarjeta de debito,359-120
+491,tarjeta de debito,078-109
+492,tarjeta de credito,634-411
+493,tarjeta de debito,079-745
+494,tarjeta de credito,395-380
+495,tarjeta de debito,024-071
+496,mercado pago,016-871
+497,tarjeta de debito,859-874
+498,tarjeta de credito,686-779
+499,tarjeta de debito,457-982
+500,mercado pago,974-187
+501,tarjeta de debito,520-394
+502,tarjeta de credito,302-950
+503,tarjeta de credito,502-519
+504,tarjeta de credito,763-364
+505,tarjeta de debito,904-169
+506,tarjeta de credito,943-253
+507,tarjeta de credito,793-709
+508,tarjeta de credito,139-935
+509,tarjeta de credito,033-268
+510,mercado pago,860-220
+511,tarjeta de debito,049-568
+512,tarjeta de credito,896-670
+513,tarjeta de debito,584-431
+514,mercado pago,811-804
+515,tarjeta de credito,243-014
+516,tarjeta de debito,732-892
+517,tarjeta de debito,276-323
+518,mercado pago,253-543
+519,tarjeta de credito,535-782
+520,tarjeta de credito,041-838
+521,mercado pago,081-452
+522,tarjeta de credito,870-515
+523,tarjeta de debito,074-976
+524,tarjeta de credito,046-621
+525,mercado pago,940-336
+526,tarjeta de credito,662-774
+527,mercado pago,189-756
+528,mercado pago,527-497
+529,tarjeta de credito,434-204
+530,mercado pago,957-370
+531,tarjeta de debito,977-515
+532,mercado pago,441-988
+533,mercado pago,000-800
+534,tarjeta de credito,720-230
+535,tarjeta de debito,084-252
+536,tarjeta de credito,871-902
+537,tarjeta de credito,205-485
+538,tarjeta de debito,895-556
+539,mercado pago,830-389
+540,tarjeta de debito,671-223
+541,tarjeta de credito,046-115
+542,tarjeta de credito,474-470
+543,tarjeta de debito,539-705
+544,mercado pago,230-417
+545,tarjeta de debito,165-317
+546,tarjeta de credito,078-367
+547,tarjeta de credito,767-831
+548,tarjeta de credito,746-166
+549,mercado pago,278-395
+550,mercado pago,269-383
+551,mercado pago,034-073
+552,tarjeta de debito,637-434
+553,tarjeta de credito,133-596
+554,tarjeta de credito,886-299
+555,mercado pago,254-872
+556,tarjeta de debito,178-778
+557,tarjeta de credito,975-282
+558,tarjeta de debito,826-872
+559,mercado pago,303-095
+560,mercado pago,366-625
+561,mercado pago,554-190
+562,mercado pago,940-242
+563,mercado pago,951-059
+564,tarjeta de debito,423-401
+565,tarjeta de credito,675-473
+566,tarjeta de credito,222-290
+567,tarjeta de credito,188-282
+568,tarjeta de debito,981-164
+569,tarjeta de debito,273-922
+570,mercado pago,607-538
+571,tarjeta de credito,439-332
+572,tarjeta de credito,667-753
+573,tarjeta de debito,239-014
+574,mercado pago,522-414
+575,tarjeta de credito,261-506
+576,mercado pago,892-219
+577,tarjeta de credito,438-013
+578,mercado pago,775-159
+579,mercado pago,287-516
+580,tarjeta de credito,508-298
+581,tarjeta de credito,100-781
+582,tarjeta de debito,406-010
+583,tarjeta de credito,400-803
+584,tarjeta de credito,122-771
+585,tarjeta de debito,798-364
+586,mercado pago,541-215
+587,mercado pago,812-455
+588,tarjeta de credito,967-409
+589,mercado pago,150-195
+590,tarjeta de credito,233-835
+591,tarjeta de credito,931-112
+592,mercado pago,626-869
+593,mercado pago,913-936
+594,mercado pago,838-989
+595,mercado pago,578-747
+596,mercado pago,521-323
+597,tarjeta de debito,437-336
+598,tarjeta de credito,382-462
+599,mercado pago,292-936
+600,tarjeta de debito,606-004
+601,mercado pago,219-981
+602,tarjeta de credito,853-033
+603,tarjeta de credito,597-562
+604,tarjeta de credito,232-015
+605,tarjeta de credito,236-139
+606,mercado pago,888-853
+607,tarjeta de credito,596-209
+608,tarjeta de credito,548-364
+609,mercado pago,945-710
+610,tarjeta de debito,328-396
+611,tarjeta de debito,747-590
+612,tarjeta de credito,772-847
+613,mercado pago,086-899
+614,tarjeta de credito,367-660
+615,tarjeta de debito,513-044
+616,mercado pago,546-603
+617,tarjeta de credito,758-030
+618,mercado pago,517-740
+619,mercado pago,817-383
+620,mercado pago,765-766
+621,tarjeta de debito,938-797
+622,mercado pago,702-391
+623,tarjeta de debito,643-051
+624,mercado pago,599-505
+625,tarjeta de debito,033-695
+626,tarjeta de debito,399-277
+627,mercado pago,628-433
+628,tarjeta de credito,093-322
+629,tarjeta de debito,807-015
+630,tarjeta de credito,130-284
+631,tarjeta de credito,044-826
+632,tarjeta de credito,901-027
+633,tarjeta de debito,207-102
+634,mercado pago,960-719
+635,tarjeta de debito,789-346
+636,tarjeta de debito,962-696
+637,tarjeta de credito,949-098
+638,tarjeta de debito,807-522
+639,tarjeta de credito,317-406
+640,tarjeta de debito,929-675
+641,tarjeta de debito,642-278
+642,tarjeta de debito,946-704
+643,tarjeta de debito,229-169
+644,mercado pago,795-073
+645,tarjeta de credito,587-161
+646,mercado pago,512-965
+647,mercado pago,552-223
+648,tarjeta de debito,608-215
+649,mercado pago,537-554
+650,tarjeta de debito,904-388
+651,tarjeta de debito,562-263
+652,tarjeta de credito,615-304
+653,tarjeta de debito,834-287
+654,tarjeta de credito,941-710
+655,tarjeta de debito,802-883
+656,mercado pago,930-172
+657,tarjeta de credito,642-893
+658,tarjeta de credito,377-329
+659,tarjeta de credito,789-601
+660,mercado pago,135-409
+661,mercado pago,783-744
+662,tarjeta de debito,493-266
+663,mercado pago,511-211
+664,tarjeta de credito,694-169
+665,tarjeta de debito,428-950
+666,tarjeta de credito,215-213
+667,mercado pago,392-765
+668,tarjeta de debito,196-585
+669,tarjeta de debito,250-811
+670,tarjeta de credito,596-065
+671,mercado pago,393-464
+672,tarjeta de credito,663-351
+673,tarjeta de credito,829-002
+674,tarjeta de credito,022-287
+675,tarjeta de debito,729-068
+676,mercado pago,859-377
+677,mercado pago,580-825
+678,tarjeta de debito,451-375
+679,tarjeta de debito,676-244
+680,tarjeta de debito,911-171
+681,tarjeta de debito,298-240
+682,mercado pago,520-375
+683,mercado pago,164-583
+684,mercado pago,482-664
+685,tarjeta de debito,453-498
+686,mercado pago,704-407
+687,tarjeta de debito,864-979
+688,tarjeta de debito,399-675
+689,mercado pago,569-651
+690,tarjeta de debito,722-521
+691,tarjeta de credito,975-776
+692,mercado pago,084-993
+693,tarjeta de debito,121-761
+694,tarjeta de credito,022-537
+695,tarjeta de debito,591-565
+696,mercado pago,478-154
+697,tarjeta de debito,783-676
+698,tarjeta de credito,096-864
+699,tarjeta de debito,286-412
+700,tarjeta de debito,285-908
+701,mercado pago,955-579
+702,tarjeta de credito,210-958
+703,tarjeta de credito,136-154
+704,mercado pago,869-222
+705,tarjeta de debito,163-385
+706,tarjeta de credito,175-952
+707,tarjeta de debito,807-937
+708,tarjeta de debito,802-255
+709,mercado pago,274-766
+710,mercado pago,391-764
+711,tarjeta de debito,852-952
+712,tarjeta de credito,263-588
+713,tarjeta de debito,236-428
+714,tarjeta de debito,660-161
+715,mercado pago,625-643
+716,tarjeta de credito,320-829
+717,mercado pago,152-227
+718,tarjeta de debito,229-985
+719,tarjeta de debito,750-891
+720,tarjeta de credito,453-215
+721,tarjeta de debito,923-816
+722,tarjeta de credito,833-849
+723,mercado pago,909-434
+724,tarjeta de credito,263-553
+725,tarjeta de debito,606-124
+726,tarjeta de debito,187-248
+727,mercado pago,744-845
+728,mercado pago,156-882
+729,tarjeta de credito,690-245
+730,mercado pago,937-351
+731,tarjeta de credito,851-230
+732,mercado pago,381-381
+733,mercado pago,603-811
+734,tarjeta de debito,019-965
+735,tarjeta de debito,204-063
+736,mercado pago,752-007
+737,mercado pago,688-886
+738,tarjeta de credito,866-821
+739,mercado pago,791-766
+740,tarjeta de credito,409-276
+741,mercado pago,515-582
+742,tarjeta de debito,779-177
+743,tarjeta de credito,647-181
+744,tarjeta de credito,083-407
+745,tarjeta de debito,398-067
+746,mercado pago,425-135
+747,mercado pago,872-930
+748,mercado pago,227-550
+749,mercado pago,408-985
+750,mercado pago,823-988
+751,tarjeta de credito,429-269
+752,tarjeta de debito,400-017
+753,tarjeta de credito,589-213
+754,tarjeta de debito,015-996
+755,tarjeta de credito,063-639
+756,tarjeta de debito,003-356
+757,tarjeta de debito,116-718
+758,mercado pago,097-579
+759,tarjeta de credito,667-206
+760,mercado pago,658-278
+761,tarjeta de credito,880-643
+762,tarjeta de credito,316-860
+763,tarjeta de credito,953-317
+764,tarjeta de debito,262-474
+765,tarjeta de credito,490-360
+766,tarjeta de credito,360-526
+767,mercado pago,865-920
+768,mercado pago,496-750
+769,tarjeta de credito,096-875
+770,tarjeta de debito,387-596
+771,mercado pago,110-024
+772,tarjeta de credito,314-995
+773,mercado pago,355-493
+774,tarjeta de credito,900-414
+775,tarjeta de credito,425-023
+776,tarjeta de credito,759-347
+777,tarjeta de credito,516-794
+778,tarjeta de credito,492-417
+779,tarjeta de debito,013-853
+780,tarjeta de debito,350-941
+781,tarjeta de credito,283-342
+782,mercado pago,830-737
+783,tarjeta de credito,394-945
+784,mercado pago,856-119
+785,mercado pago,096-168
+786,mercado pago,849-103
+787,tarjeta de debito,858-380
+788,tarjeta de credito,449-266
+789,tarjeta de debito,150-218
+790,mercado pago,306-906
+791,tarjeta de debito,309-430
+792,tarjeta de debito,360-661
+793,mercado pago,216-332
+794,mercado pago,304-264
+795,tarjeta de debito,174-171
+796,tarjeta de credito,511-467
+797,tarjeta de debito,622-996
+798,tarjeta de debito,092-568
+799,tarjeta de credito,860-178
+800,mercado pago,243-605
+801,mercado pago,098-581
+802,mercado pago,035-961
+803,mercado pago,411-095
+804,tarjeta de debito,230-558
+805,tarjeta de credito,009-628
+806,mercado pago,808-044
+807,tarjeta de debito,636-916
+808,mercado pago,066-387
+809,tarjeta de debito,883-409
+810,tarjeta de debito,785-996
+811,mercado pago,212-739
+812,tarjeta de debito,317-942
+813,tarjeta de credito,382-516
+814,tarjeta de credito,373-781
+815,tarjeta de debito,022-937
+816,tarjeta de credito,175-342
+817,tarjeta de credito,780-343
+818,mercado pago,810-607
+819,tarjeta de credito,849-623
+820,tarjeta de credito,690-636
+821,tarjeta de debito,617-632
+822,tarjeta de debito,194-447
+823,tarjeta de debito,207-114
+824,tarjeta de debito,280-782
+825,tarjeta de credito,067-251
+826,mercado pago,819-444
+827,tarjeta de credito,266-961
+828,tarjeta de credito,702-619
+829,mercado pago,832-141
+830,tarjeta de credito,668-799
+831,mercado pago,873-919
+832,tarjeta de debito,483-479
+833,tarjeta de credito,210-101
+834,tarjeta de credito,726-162
+835,tarjeta de debito,627-931
+836,mercado pago,700-046
+837,tarjeta de credito,151-359
+838,tarjeta de debito,618-057
+839,tarjeta de credito,653-233
+840,tarjeta de debito,322-205
+841,tarjeta de debito,000-565
+842,tarjeta de debito,821-565
+843,mercado pago,007-184
+844,mercado pago,112-040
+845,tarjeta de debito,331-431
+846,tarjeta de credito,972-493
+847,tarjeta de credito,006-117
+848,tarjeta de credito,516-350
+849,tarjeta de debito,261-646
+850,tarjeta de debito,628-893
+851,mercado pago,714-030
+852,tarjeta de debito,256-191
+853,tarjeta de credito,741-992
+854,tarjeta de debito,906-817
+855,tarjeta de debito,382-570
+856,tarjeta de credito,382-323
+857,mercado pago,820-936
+858,tarjeta de debito,795-087
+859,tarjeta de credito,363-306
+860,mercado pago,289-771
+861,mercado pago,286-065
+862,mercado pago,296-178
+863,tarjeta de credito,177-060
+864,mercado pago,715-097
+865,tarjeta de debito,620-578
+866,mercado pago,388-994
+867,tarjeta de debito,301-183
+868,tarjeta de debito,136-022
+869,tarjeta de debito,656-712
+870,tarjeta de credito,813-776
+871,tarjeta de debito,690-888
+872,tarjeta de debito,975-294
+873,mercado pago,524-680
+874,mercado pago,933-668
+875,tarjeta de debito,286-434
+876,tarjeta de debito,099-700
+877,tarjeta de credito,731-036
+878,mercado pago,136-266
+879,mercado pago,725-994
+880,mercado pago,056-194
+881,mercado pago,627-221
+882,mercado pago,221-697
+883,mercado pago,868-160
+884,tarjeta de credito,104-219
+885,tarjeta de debito,959-019
+886,mercado pago,059-038
+887,mercado pago,471-012
+888,mercado pago,598-651
+889,tarjeta de credito,243-884
+890,tarjeta de debito,080-661
+891,tarjeta de debito,041-075
+892,tarjeta de credito,850-348
+893,tarjeta de credito,526-597
+894,tarjeta de credito,246-296
+895,mercado pago,503-605
+896,tarjeta de credito,347-324
+897,tarjeta de debito,954-281
+898,tarjeta de debito,404-334
+899,mercado pago,843-104
+900,tarjeta de credito,288-438
+901,tarjeta de debito,724-769
+902,mercado pago,571-226
+903,tarjeta de credito,414-369
+904,mercado pago,562-269
+905,mercado pago,898-544
+906,tarjeta de credito,751-155
+907,tarjeta de debito,143-411
+908,tarjeta de credito,201-501
+909,tarjeta de credito,763-919
+910,tarjeta de debito,229-370
+911,tarjeta de debito,849-794
+912,tarjeta de credito,537-881
+913,tarjeta de debito,977-540
+914,tarjeta de debito,911-672
+915,tarjeta de credito,369-506
+916,mercado pago,375-862
+917,mercado pago,244-639
+918,tarjeta de debito,882-386
+919,tarjeta de debito,928-045
+920,mercado pago,810-850
+921,mercado pago,753-761
+922,tarjeta de credito,101-917
+923,mercado pago,151-157
+924,tarjeta de debito,398-006
+925,tarjeta de debito,628-295
+926,tarjeta de credito,144-899
+927,tarjeta de credito,145-900
+928,tarjeta de credito,854-876
+929,tarjeta de debito,240-052
+930,mercado pago,807-752
+931,tarjeta de debito,909-504
+932,mercado pago,776-521
+933,mercado pago,638-439
+934,tarjeta de debito,312-872
+935,tarjeta de credito,348-377
+936,mercado pago,551-921
+937,mercado pago,287-860
+938,mercado pago,901-372
+939,tarjeta de credito,360-368
+940,tarjeta de debito,470-739
+941,tarjeta de debito,322-131
+942,tarjeta de credito,409-163
+943,tarjeta de debito,804-588
+944,tarjeta de credito,344-782
+945,tarjeta de credito,407-760
+946,tarjeta de credito,006-360
+947,mercado pago,898-427
+948,tarjeta de debito,174-767
+949,mercado pago,507-881
+950,tarjeta de debito,321-146
+951,tarjeta de credito,963-813
+952,tarjeta de credito,017-905
+953,tarjeta de debito,227-630
+954,mercado pago,218-819
+955,tarjeta de debito,855-120
+956,tarjeta de debito,085-574
+957,tarjeta de credito,607-546
+958,tarjeta de debito,000-620
+959,mercado pago,251-444
+960,tarjeta de debito,415-444
+961,mercado pago,629-410
+962,tarjeta de debito,137-886
+963,tarjeta de debito,303-103
+964,tarjeta de debito,816-489
+965,tarjeta de credito,364-918
+966,tarjeta de credito,492-741
+967,tarjeta de credito,344-115
+968,tarjeta de credito,852-737
+969,tarjeta de credito,005-419
+970,tarjeta de debito,551-845
+971,tarjeta de debito,462-966
+972,tarjeta de credito,222-871
+973,tarjeta de debito,838-489
+974,tarjeta de credito,105-661
+975,tarjeta de credito,815-086
+976,mercado pago,363-945
+977,tarjeta de debito,477-993
+978,tarjeta de credito,147-810
+979,mercado pago,041-942
+980,tarjeta de debito,918-609
+981,tarjeta de credito,360-529
+982,tarjeta de credito,887-665
+983,mercado pago,429-544
+984,mercado pago,206-462
+985,tarjeta de credito,846-731
+986,tarjeta de debito,050-843
+987,tarjeta de debito,378-958
+988,tarjeta de debito,886-204
+989,tarjeta de credito,669-228
+990,mercado pago,004-990
+991,tarjeta de debito,877-285
+992,tarjeta de credito,077-337
+993,mercado pago,613-799
+994,tarjeta de credito,675-987
+995,tarjeta de credito,569-135
+996,tarjeta de credito,938-895
+997,tarjeta de credito,682-143
+998,tarjeta de credito,062-392
+999,mercado pago,509-730
+1000,tarjeta de credito,906-352
