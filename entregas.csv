@@ -1,0 +1,251 @@
+codigo_entrega,modalidad,direccion,precio_envio
+1,envío a domicilio,"Av. Santa Fe 2345, CABA",10000
+2,retiro en sucursal,"Calle Florida 567, CABA",10000
+3,retiro en sucursal,"Calle San Martín 456, La Plata, Bs As",8000
+4,retiro en sucursal,"Av. Santa Fe 2345, CABA",10000
+5,envío a domicilio,"Calle Thames 345, CABA",10000
+6,retiro en sucursal,"Calle Florida 567, CABA",10000
+7,retiro en sucursal,"Calle Thames 345, CABA",10000
+8,retiro en sucursal,"Calle San Martín 456, La Plata, Bs As",8000
+9,retiro en sucursal,"Calle San Martín 456, La Plata, Bs As",8000
+10,envío a domicilio,"Av. Rivadavia 1234, CABA",10000
+11,retiro en sucursal,"Av. Santa Fe 2345, CABA",10000
+12,retiro en sucursal,"Av. Corrientes 789, CABA",10000
+13,retiro en sucursal,"Calle Sarmiento 4567, CABA",10000
+14,retiro en sucursal,"Av. Rivadavia 1234, CABA",10000
+15,envío a domicilio,"Av. Santa Fe 2345, CABA",10000
+16,retiro en sucursal,"Av. Rivadavia 1234, CABA",10000
+17,envío a domicilio,"Calle San Martín 456, La Plata, Bs As",8000
+18,retiro en sucursal,"Calle Maipú 234, San Isidro, Bs As",8000
+19,envío a domicilio,"Calle Florida 567, CABA",10000
+20,envío a domicilio,"Calle San Martín 456, La Plata, Bs As",8000
+21,envío a domicilio,"Av. Santa Fe 2345, CABA",10000
+22,envío a domicilio,"Av. Libertador 678, Vicente López, Bs As",8000
+23,envío a domicilio,"Calle Belgrano 789, Tigre, Bs As",8000
+24,envío a domicilio,"Av. Rivadavia 1234, CABA",10000
+25,envío a domicilio,"Calle San Martín 456, La Plata, Bs As",8000
+26,retiro en sucursal,"Calle Sarmiento 4567, CABA",10000
+27,retiro en sucursal,"Av. Rivadavia 1234, CABA",10000
+28,envío a domicilio,"Calle San Martín 456, La Plata, Bs As",8000
+29,envío a domicilio,"Calle Florida 567, CABA",10000
+30,retiro en sucursal,"Av. Libertador 678, Vicente López, Bs As",8000
+31,retiro en sucursal,"Av. Rivadavia 1234, CABA",10000
+32,retiro en sucursal,"Calle Thames 345, CABA",10000
+33,retiro en sucursal,"Av. Libertador 678, Vicente López, Bs As",8000
+34,envío a domicilio,"Av. Santa Fe 2345, CABA",10000
+35,envío a domicilio,"Calle Belgrano 789, Tigre, Bs As",8000
+36,retiro en sucursal,"Av. Santa Fe 2345, CABA",10000
+37,envío a domicilio,"Calle Thames 345, CABA",10000
+38,envío a domicilio,"Calle Sarmiento 4567, CABA",10000
+39,envío a domicilio,"Calle San Martín 456, La Plata, Bs As",8000
+40,envío a domicilio,"Av. Santa Fe 2345, CABA",10000
+41,retiro en sucursal,"Calle Belgrano 789, Tigre, Bs As",8000
+42,envío a domicilio,"Calle San Martín 456, La Plata, Bs As",8000
+43,envío a domicilio,"Calle San Martín 456, La Plata, Bs As",8000
+44,retiro en sucursal,"Av. Santa Fe 2345, CABA",10000
+45,envío a domicilio,"Av. Rivadavia 1234, CABA",10000
+46,envío a domicilio,"Calle Thames 345, CABA",10000
+47,envío a domicilio,"Calle San Martín 456, La Plata, Bs As",8000
+48,retiro en sucursal,"Av. Santa Fe 2345, CABA",10000
+49,envío a domicilio,"Calle Thames 345, CABA",10000
+50,envío a domicilio,"Calle Belgrano 789, Tigre, Bs As",8000
+51,envío a domicilio,"Av. Santa Fe 2345, CABA",10000
+52,retiro en sucursal,"Av. Libertador 678, Vicente López, Bs As",8000
+53,envío a domicilio,"Av. Santa Fe 2345, CABA",10000
+54,envío a domicilio,"Av. Santa Fe 2345, CABA",10000
+55,retiro en sucursal,"Av. Libertador 678, Vicente López, Bs As",8000
+56,envío a domicilio,"Av. Libertador 678, Vicente López, Bs As",8000
+57,envío a domicilio,"Calle Thames 345, CABA",10000
+58,retiro en sucursal,"Av. Corrientes 789, CABA",10000
+59,envío a domicilio,"Av. Libertador 678, Vicente López, Bs As",8000
+60,retiro en sucursal,"Av. Rivadavia 1234, CABA",10000
+61,envío a domicilio,"Av. Rivadavia 1234, CABA",10000
+62,retiro en sucursal,"Calle San Martín 456, La Plata, Bs As",8000
+63,retiro en sucursal,"Calle Thames 345, CABA",10000
+64,retiro en sucursal,"Av. Santa Fe 2345, CABA",10000
+65,envío a domicilio,"Calle Thames 345, CABA",10000
+66,retiro en sucursal,"Calle Belgrano 789, Tigre, Bs As",8000
+67,retiro en sucursal,"Calle Belgrano 789, Tigre, Bs As",8000
+68,envío a domicilio,"Calle Florida 567, CABA",10000
+69,retiro en sucursal,"Av. Santa Fe 2345, CABA",10000
+70,envío a domicilio,"Av. Corrientes 789, CABA",10000
+71,retiro en sucursal,"Calle Thames 345, CABA",10000
+72,envío a domicilio,"Calle Florida 567, CABA",10000
+73,envío a domicilio,"Av. Rivadavia 1234, CABA",10000
+74,retiro en sucursal,"Calle San Martín 456, La Plata, Bs As",8000
+75,retiro en sucursal,"Av. Libertador 678, Vicente López, Bs As",8000
+76,retiro en sucursal,"Av. Santa Fe 2345, CABA",10000
+77,envío a domicilio,"Av. Santa Fe 2345, CABA",10000
+78,envío a domicilio,"Calle Maipú 234, San Isidro, Bs As",8000
+79,retiro en sucursal,"Av. Libertador 678, Vicente López, Bs As",8000
+80,envío a domicilio,"Calle Florida 567, CABA",10000
+81,retiro en sucursal,"Av. Rivadavia 1234, CABA",10000
+82,retiro en sucursal,"Calle Maipú 234, San Isidro, Bs As",8000
+83,envío a domicilio,"Av. Libertador 678, Vicente López, Bs As",8000
+84,envío a domicilio,"Calle San Martín 456, La Plata, Bs As",8000
+85,envío a domicilio,"Calle Sarmiento 4567, CABA",10000
+86,envío a domicilio,"Calle San Martín 456, La Plata, Bs As",8000
+87,envío a domicilio,"Calle Sarmiento 4567, CABA",10000
+88,envío a domicilio,"Calle Sarmiento 4567, CABA",10000
+89,envío a domicilio,"Av. Santa Fe 2345, CABA",10000
+90,envío a domicilio,"Av. Rivadavia 1234, CABA",10000
+91,retiro en sucursal,"Calle Belgrano 789, Tigre, Bs As",8000
+92,envío a domicilio,"Calle Florida 567, CABA",10000
+93,envío a domicilio,"Av. Corrientes 789, CABA",10000
+94,retiro en sucursal,"Calle San Martín 456, La Plata, Bs As",8000
+95,retiro en sucursal,"Calle Belgrano 789, Tigre, Bs As",8000
+96,retiro en sucursal,"Av. Santa Fe 2345, CABA",10000
+97,retiro en sucursal,"Calle Florida 567, CABA",10000
+98,retiro en sucursal,"Av. Rivadavia 1234, CABA",10000
+99,retiro en sucursal,"Calle Belgrano 789, Tigre, Bs As",8000
+100,retiro en sucursal,"Calle San Martín 456, La Plata, Bs As",8000
+101,envío a domicilio,"Calle Florida 567, CABA",10000
+102,retiro en sucursal,"Calle Sarmiento 4567, CABA",10000
+103,retiro en sucursal,"Av. Rivadavia 1234, CABA",10000
+104,retiro en sucursal,"Calle Maipú 234, San Isidro, Bs As",8000
+105,retiro en sucursal,"Calle Thames 345, CABA",10000
+106,envío a domicilio,"Av. Corrientes 789, CABA",10000
+107,envío a domicilio,"Calle Thames 345, CABA",10000
+108,retiro en sucursal,"Calle Thames 345, CABA",10000
+109,retiro en sucursal,"Calle Florida 567, CABA",10000
+110,retiro en sucursal,"Av. Rivadavia 1234, CABA",10000
+111,retiro en sucursal,"Calle Florida 567, CABA",10000
+112,envío a domicilio,"Calle San Martín 456, La Plata, Bs As",8000
+113,envío a domicilio,"Calle Sarmiento 4567, CABA",10000
+114,envío a domicilio,"Calle Belgrano 789, Tigre, Bs As",8000
+115,retiro en sucursal,"Calle Florida 567, CABA",10000
+116,envío a domicilio,"Calle Belgrano 789, Tigre, Bs As",8000
+117,envío a domicilio,"Calle Sarmiento 4567, CABA",10000
+118,retiro en sucursal,"Calle Thames 345, CABA",10000
+119,envío a domicilio,"Calle Thames 345, CABA",10000
+120,retiro en sucursal,"Calle Florida 567, CABA",10000
+121,envío a domicilio,"Calle Belgrano 789, Tigre, Bs As",8000
+122,retiro en sucursal,"Av. Rivadavia 1234, CABA",10000
+123,retiro en sucursal,"Calle Belgrano 789, Tigre, Bs As",8000
+124,retiro en sucursal,"Calle Thames 345, CABA",10000
+125,envío a domicilio,"Calle San Martín 456, La Plata, Bs As",8000
+126,envío a domicilio,"Av. Rivadavia 1234, CABA",10000
+127,envío a domicilio,"Calle Belgrano 789, Tigre, Bs As",8000
+128,retiro en sucursal,"Av. Libertador 678, Vicente López, Bs As",8000
+129,retiro en sucursal,"Av. Libertador 678, Vicente López, Bs As",8000
+130,envío a domicilio,"Av. Santa Fe 2345, CABA",10000
+131,retiro en sucursal,"Av. Rivadavia 1234, CABA",10000
+132,retiro en sucursal,"Av. Rivadavia 1234, CABA",10000
+133,retiro en sucursal,"Av. Santa Fe 2345, CABA",10000
+134,envío a domicilio,"Calle Sarmiento 4567, CABA",10000
+135,envío a domicilio,"Calle Sarmiento 4567, CABA",10000
+136,retiro en sucursal,"Av. Santa Fe 2345, CABA",10000
+137,retiro en sucursal,"Av. Santa Fe 2345, CABA",10000
+138,retiro en sucursal,"Av. Libertador 678, Vicente López, Bs As",8000
+139,retiro en sucursal,"Calle San Martín 456, La Plata, Bs As",8000
+140,envío a domicilio,"Calle San Martín 456, La Plata, Bs As",8000
+141,envío a domicilio,"Av. Rivadavia 1234, CABA",10000
+142,retiro en sucursal,"Calle Belgrano 789, Tigre, Bs As",8000
+143,retiro en sucursal,"Calle Belgrano 789, Tigre, Bs As",8000
+144,envío a domicilio,"Calle San Martín 456, La Plata, Bs As",8000
+145,envío a domicilio,"Calle Maipú 234, San Isidro, Bs As",8000
+146,retiro en sucursal,"Av. Libertador 678, Vicente López, Bs As",8000
+147,retiro en sucursal,"Av. Libertador 678, Vicente López, Bs As",8000
+148,retiro en sucursal,"Av. Santa Fe 2345, CABA",10000
+149,retiro en sucursal,"Calle Maipú 234, San Isidro, Bs As",8000
+150,retiro en sucursal,"Av. Libertador 678, Vicente López, Bs As",8000
+151,retiro en sucursal,"Av. Rivadavia 1234, CABA",10000
+152,envío a domicilio,"Calle Thames 345, CABA",10000
+153,envío a domicilio,"Av. Santa Fe 2345, CABA",10000
+154,retiro en sucursal,"Av. Rivadavia 1234, CABA",10000
+155,retiro en sucursal,"Av. Corrientes 789, CABA",10000
+156,retiro en sucursal,"Av. Rivadavia 1234, CABA",10000
+157,retiro en sucursal,"Av. Libertador 678, Vicente López, Bs As",8000
+158,retiro en sucursal,"Calle Florida 567, CABA",10000
+159,retiro en sucursal,"Av. Santa Fe 2345, CABA",10000
+160,retiro en sucursal,"Calle Thames 345, CABA",10000
+161,retiro en sucursal,"Av. Santa Fe 2345, CABA",10000
+162,retiro en sucursal,"Av. Santa Fe 2345, CABA",10000
+163,retiro en sucursal,"Av. Libertador 678, Vicente López, Bs As",8000
+164,envío a domicilio,"Calle Belgrano 789, Tigre, Bs As",8000
+165,retiro en sucursal,"Av. Santa Fe 2345, CABA",10000
+166,retiro en sucursal,"Av. Santa Fe 2345, CABA",10000
+167,envío a domicilio,"Calle Thames 345, CABA",10000
+168,retiro en sucursal,"Av. Libertador 678, Vicente López, Bs As",8000
+169,envío a domicilio,"Av. Libertador 678, Vicente López, Bs As",8000
+170,envío a domicilio,"Calle Thames 345, CABA",10000
+171,retiro en sucursal,"Av. Rivadavia 1234, CABA",10000
+172,envío a domicilio,"Av. Corrientes 789, CABA",10000
+173,envío a domicilio,"Av. Santa Fe 2345, CABA",10000
+174,retiro en sucursal,"Av. Santa Fe 2345, CABA",10000
+175,retiro en sucursal,"Calle Thames 345, CABA",10000
+176,retiro en sucursal,"Calle Sarmiento 4567, CABA",10000
+177,envío a domicilio,"Calle San Martín 456, La Plata, Bs As",8000
+178,retiro en sucursal,"Calle San Martín 456, La Plata, Bs As",8000
+179,envío a domicilio,"Av. Libertador 678, Vicente López, Bs As",8000
+180,retiro en sucursal,"Av. Santa Fe 2345, CABA",10000
+181,retiro en sucursal,"Av. Libertador 678, Vicente López, Bs As",8000
+182,envío a domicilio,"Calle Belgrano 789, Tigre, Bs As",8000
+183,retiro en sucursal,"Av. Rivadavia 1234, CABA",10000
+184,retiro en sucursal,"Calle Sarmiento 4567, CABA",10000
+185,retiro en sucursal,"Av. Rivadavia 1234, CABA",10000
+186,envío a domicilio,"Av. Corrientes 789, CABA",10000
+187,retiro en sucursal,"Calle San Martín 456, La Plata, Bs As",8000
+188,envío a domicilio,"Calle Florida 567, CABA",10000
+189,envío a domicilio,"Calle Thames 345, CABA",10000
+190,retiro en sucursal,"Calle San Martín 456, La Plata, Bs As",8000
+191,envío a domicilio,"Calle Thames 345, CABA",10000
+192,retiro en sucursal,"Calle San Martín 456, La Plata, Bs As",8000
+193,envío a domicilio,"Calle Florida 567, CABA",10000
+194,envío a domicilio,"Calle Florida 567, CABA",10000
+195,retiro en sucursal,"Av. Santa Fe 2345, CABA",10000
+196,retiro en sucursal,"Calle Maipú 234, San Isidro, Bs As",8000
+197,retiro en sucursal,"Calle Thames 345, CABA",10000
+198,envío a domicilio,"Av. Libertador 678, Vicente López, Bs As",8000
+199,envío a domicilio,"Calle San Martín 456, La Plata, Bs As",8000
+200,envío a domicilio,"Av. Libertador 678, Vicente López, Bs As",8000
+201,retiro en sucursal,"Calle Florida 567, CABA",10000
+202,envío a domicilio,"Calle Maipú 234, San Isidro, Bs As",8000
+203,envío a domicilio,"Calle Thames 345, CABA",10000
+204,envío a domicilio,"Av. Santa Fe 2345, CABA",10000
+205,envío a domicilio,"Calle Florida 567, CABA",10000
+206,retiro en sucursal,"Calle San Martín 456, La Plata, Bs As",8000
+207,envío a domicilio,"Calle San Martín 456, La Plata, Bs As",8000
+208,envío a domicilio,"Av. Santa Fe 2345, CABA",10000
+209,retiro en sucursal,"Calle San Martín 456, La Plata, Bs As",8000
+210,envío a domicilio,"Calle San Martín 456, La Plata, Bs As",8000
+211,envío a domicilio,"Calle San Martín 456, La Plata, Bs As",8000
+212,envío a domicilio,"Calle Sarmiento 4567, CABA",10000
+213,envío a domicilio,"Calle Belgrano 789, Tigre, Bs As",8000
+214,retiro en sucursal,"Calle San Martín 456, La Plata, Bs As",8000
+215,retiro en sucursal,"Calle Sarmiento 4567, CABA",10000
+216,retiro en sucursal,"Av. Santa Fe 2345, CABA",10000
+217,retiro en sucursal,"Calle San Martín 456, La Plata, Bs As",8000
+218,envío a domicilio,"Av. Santa Fe 2345, CABA",10000
+219,retiro en sucursal,"Calle Thames 345, CABA",10000
+220,envío a domicilio,"Calle Thames 345, CABA",10000
+221,retiro en sucursal,"Calle Maipú 234, San Isidro, Bs As",8000
+222,retiro en sucursal,"Av. Rivadavia 1234, CABA",10000
+223,retiro en sucursal,"Calle Thames 345, CABA",10000
+224,envío a domicilio,"Calle Sarmiento 4567, CABA",10000
+225,envío a domicilio,"Calle San Martín 456, La Plata, Bs As",8000
+226,envío a domicilio,"Calle Thames 345, CABA",10000
+227,envío a domicilio,"Av. Rivadavia 1234, CABA",10000
+228,envío a domicilio,"Calle Sarmiento 4567, CABA",10000
+229,retiro en sucursal,"Av. Santa Fe 2345, CABA",10000
+230,retiro en sucursal,"Av. Rivadavia 1234, CABA",10000
+231,retiro en sucursal,"Av. Santa Fe 2345, CABA",10000
+232,envío a domicilio,"Calle Florida 567, CABA",10000
+233,envío a domicilio,"Av. Santa Fe 2345, CABA",10000
+234,retiro en sucursal,"Calle Sarmiento 4567, CABA",10000
+235,retiro en sucursal,"Calle Thames 345, CABA",10000
+236,retiro en sucursal,"Av. Libertador 678, Vicente López, Bs As",8000
+237,retiro en sucursal,"Calle Thames 345, CABA",10000
+238,retiro en sucursal,"Calle Florida 567, CABA",10000
+239,envío a domicilio,"Av. Libertador 678, Vicente López, Bs As",8000
+240,envío a domicilio,"Av. Rivadavia 1234, CABA",10000
+241,retiro en sucursal,"Calle Belgrano 789, Tigre, Bs As",8000
+242,retiro en sucursal,"Calle Florida 567, CABA",10000
+243,retiro en sucursal,"Calle Belgrano 789, Tigre, Bs As",8000
+244,retiro en sucursal,"Calle Sarmiento 4567, CABA",10000
+245,envío a domicilio,"Calle Sarmiento 4567, CABA",10000
+246,retiro en sucursal,"Av. Santa Fe 2345, CABA",10000
+247,retiro en sucursal,"Av. Libertador 678, Vicente López, Bs As",8000
+248,envío a domicilio,"Av. Rivadavia 1234, CABA",10000
+249,envío a domicilio,"Calle Belgrano 789, Tigre, Bs As",8000
+250,retiro en sucursal,"Calle San Martín 456, La Plata, Bs As",8000
