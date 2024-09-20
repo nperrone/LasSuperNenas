@@ -1,251 +1,123 @@
-codigo_entrega,modalidad,precio_envio,numero_documento
-1,envío a domicilio,10000,3343921
-2,retiro en sucursal,10000,3740174
-3,retiro en sucursal,8000,3060905
-4,retiro en sucursal,10000,3343921
-5,envío a domicilio,10000,3769891
-6,retiro en sucursal,10000,3740174
-7,retiro en sucursal,10000,3769891
-8,retiro en sucursal,8000,3060905
-9,retiro en sucursal,8000,3060905
-10,envío a domicilio,10000,3729471
-11,retiro en sucursal,10000,3343921
-12,retiro en sucursal,10000,3525659
-13,retiro en sucursal,10000,3891528
-14,retiro en sucursal,10000,3729471
-15,envío a domicilio,10000,3343921
-16,retiro en sucursal,10000,3729471
-17,envío a domicilio,8000,3060905
-18,retiro en sucursal,8000,3869423
-19,envío a domicilio,10000,3740174
-20,envío a domicilio,8000,3060905
-21,envío a domicilio,10000,3343921
-22,envío a domicilio,8000,3512460
-23,envío a domicilio,8000,3054482
-24,envío a domicilio,10000,3729471
-25,envío a domicilio,8000,3060905
-26,retiro en sucursal,10000,3891528
-27,retiro en sucursal,10000,3729471
-28,envío a domicilio,8000,3060905
-29,envío a domicilio,10000,3740174
-30,retiro en sucursal,8000,3512460
-31,retiro en sucursal,10000,3729471
-32,retiro en sucursal,10000,3769891
-33,retiro en sucursal,8000,3512460
-34,envío a domicilio,10000,3343921
-35,envío a domicilio,8000,3054482
-36,retiro en sucursal,10000,3343921
-37,envío a domicilio,10000,3769891
-38,envío a domicilio,10000,3891528
-39,envío a domicilio,8000,3060905
-40,envío a domicilio,10000,3343921
-41,retiro en sucursal,8000,3054482
-42,envío a domicilio,8000,3060905
-43,envío a domicilio,8000,3060905
-44,retiro en sucursal,10000,3343921
-45,envío a domicilio,10000,3729471
-46,envío a domicilio,10000,3769891
-47,envío a domicilio,8000,3060905
-48,retiro en sucursal,10000,3343921
-49,envío a domicilio,10000,3769891
-50,envío a domicilio,8000,3054482
-51,envío a domicilio,10000,3343921
-52,retiro en sucursal,8000,3512460
-53,envío a domicilio,10000,3343921
-54,envío a domicilio,10000,3343921
-55,retiro en sucursal,8000,3512460
-56,envío a domicilio,8000,3512460
-57,envío a domicilio,10000,3769891
-58,retiro en sucursal,10000,3525659
-59,envío a domicilio,8000,3512460
-60,retiro en sucursal,10000,3729471
-61,envío a domicilio,10000,3729471
-62,retiro en sucursal,8000,3060905
-63,retiro en sucursal,10000,3769891
-64,retiro en sucursal,10000,3343921
-65,envío a domicilio,10000,3769891
-66,retiro en sucursal,8000,3054482
-67,retiro en sucursal,8000,3054482
-68,envío a domicilio,10000,3740174
-69,retiro en sucursal,10000,3343921
-70,envío a domicilio,10000,3525659
-71,retiro en sucursal,10000,3769891
-72,envío a domicilio,10000,3740174
-73,envío a domicilio,10000,3729471
-74,retiro en sucursal,8000,3060905
-75,retiro en sucursal,8000,3512460
-76,retiro en sucursal,10000,3343921
-77,envío a domicilio,10000,3343921
-78,envío a domicilio,8000,3869423
-79,retiro en sucursal,8000,3512460
-80,envío a domicilio,10000,3740174
-81,retiro en sucursal,10000,3729471
-82,retiro en sucursal,8000,3869423
-83,envío a domicilio,8000,3512460
-84,envío a domicilio,8000,3060905
-85,envío a domicilio,10000,3891528
-86,envío a domicilio,8000,3060905
-87,envío a domicilio,10000,3891528
-88,envío a domicilio,10000,3891528
-89,envío a domicilio,10000,3343921
-90,envío a domicilio,10000,3729471
-91,retiro en sucursal,8000,3054482
-92,envío a domicilio,10000,3740174
-93,envío a domicilio,10000,3525659
-94,retiro en sucursal,8000,3060905
-95,retiro en sucursal,8000,3054482
-96,retiro en sucursal,10000,3343921
-97,retiro en sucursal,10000,3740174
-98,retiro en sucursal,10000,3729471
-99,retiro en sucursal,8000,3054482
-100,retiro en sucursal,8000,3060905
-101,envío a domicilio,10000,3740174
-102,retiro en sucursal,10000,3891528
-103,retiro en sucursal,10000,3729471
-104,retiro en sucursal,8000,3869423
-105,retiro en sucursal,10000,3769891
-106,envío a domicilio,10000,3525659
-107,envío a domicilio,10000,3769891
-108,retiro en sucursal,10000,3769891
-109,retiro en sucursal,10000,3740174
-110,retiro en sucursal,10000,3729471
-111,retiro en sucursal,10000,3740174
-112,envío a domicilio,8000,3060905
-113,envío a domicilio,10000,3891528
-114,envío a domicilio,8000,3054482
-115,retiro en sucursal,10000,3740174
-116,envío a domicilio,8000,3054482
-117,envío a domicilio,10000,3891528
-118,retiro en sucursal,10000,3769891
-119,envío a domicilio,10000,3769891
-120,retiro en sucursal,10000,3740174
-121,envío a domicilio,8000,3054482
-122,retiro en sucursal,10000,3729471
-123,retiro en sucursal,8000,3054482
-124,retiro en sucursal,10000,3769891
-125,envío a domicilio,8000,3060905
-126,envío a domicilio,10000,3729471
-127,envío a domicilio,8000,3054482
-128,retiro en sucursal,8000,3512460
-129,retiro en sucursal,8000,3512460
-130,envío a domicilio,10000,3343921
-131,retiro en sucursal,10000,3729471
-132,retiro en sucursal,10000,3729471
-133,retiro en sucursal,10000,3343921
-134,envío a domicilio,10000,3891528
-135,envío a domicilio,10000,3891528
-136,retiro en sucursal,10000,3343921
-137,retiro en sucursal,10000,3343921
-138,retiro en sucursal,8000,3512460
-139,retiro en sucursal,8000,3060905
-140,envío a domicilio,8000,3060905
-141,envío a domicilio,10000,3729471
-142,retiro en sucursal,8000,3054482
-143,retiro en sucursal,8000,3054482
-144,envío a domicilio,8000,3060905
-145,envío a domicilio,8000,3869423
-146,retiro en sucursal,8000,3512460
-147,retiro en sucursal,8000,3512460
-148,retiro en sucursal,10000,3343921
-149,retiro en sucursal,8000,3869423
-150,retiro en sucursal,8000,3512460
-151,retiro en sucursal,10000,3729471
-152,envío a domicilio,10000,3769891
-153,envío a domicilio,10000,3343921
-154,retiro en sucursal,10000,3729471
-155,retiro en sucursal,10000,3525659
-156,retiro en sucursal,10000,3729471
-157,retiro en sucursal,8000,3512460
-158,retiro en sucursal,10000,3740174
-159,retiro en sucursal,10000,3343921
-160,retiro en sucursal,10000,3769891
-161,retiro en sucursal,10000,3343921
-162,retiro en sucursal,10000,3343921
-163,retiro en sucursal,8000,3512460
-164,envío a domicilio,8000,3054482
-165,retiro en sucursal,10000,3343921
-166,retiro en sucursal,10000,3343921
-167,envío a domicilio,10000,3769891
-168,retiro en sucursal,8000,3512460
-169,envío a domicilio,8000,3512460
-170,envío a domicilio,10000,3769891
-171,retiro en sucursal,10000,3729471
-172,envío a domicilio,10000,3525659
-173,envío a domicilio,10000,3343921
-174,retiro en sucursal,10000,3343921
-175,retiro en sucursal,10000,3769891
-176,retiro en sucursal,10000,3891528
-177,envío a domicilio,8000,3060905
-178,retiro en sucursal,8000,3060905
-179,envío a domicilio,8000,3512460
-180,retiro en sucursal,10000,3343921
-181,retiro en sucursal,8000,3512460
-182,envío a domicilio,8000,3054482
-183,retiro en sucursal,10000,3729471
-184,retiro en sucursal,10000,3891528
-185,retiro en sucursal,10000,3729471
-186,envío a domicilio,10000,3525659
-187,retiro en sucursal,8000,3060905
-188,envío a domicilio,10000,3740174
-189,envío a domicilio,10000,3769891
-190,retiro en sucursal,8000,3060905
-191,envío a domicilio,10000,3769891
-192,retiro en sucursal,8000,3060905
-193,envío a domicilio,10000,3740174
-194,envío a domicilio,10000,3740174
-195,retiro en sucursal,10000,3343921
-196,retiro en sucursal,8000,3869423
-197,retiro en sucursal,10000,3769891
-198,envío a domicilio,8000,3512460
-199,envío a domicilio,8000,3060905
-200,envío a domicilio,8000,3512460
-201,retiro en sucursal,10000,3740174
-202,envío a domicilio,8000,3869423
-203,envío a domicilio,10000,3769891
-204,envío a domicilio,10000,3343921
-205,envío a domicilio,10000,3740174
-206,retiro en sucursal,8000,3060905
-207,envío a domicilio,8000,3060905
-208,envío a domicilio,10000,3343921
-209,retiro en sucursal,8000,3060905
-210,envío a domicilio,8000,3060905
-211,envío a domicilio,8000,3060905
-212,envío a domicilio,10000,3891528
-213,envío a domicilio,8000,3054482
-214,retiro en sucursal,8000,3060905
-215,retiro en sucursal,10000,3891528
-216,retiro en sucursal,10000,3343921
-217,retiro en sucursal,8000,3060905
-218,envío a domicilio,10000,3343921
-219,retiro en sucursal,10000,3769891
-220,envío a domicilio,10000,3769891
-221,retiro en sucursal,8000,3869423
-222,retiro en sucursal,10000,3729471
-223,retiro en sucursal,10000,3769891
-224,envío a domicilio,10000,3891528
-225,envío a domicilio,8000,3060905
-226,envío a domicilio,10000,3769891
-227,envío a domicilio,10000,3729471
-228,envío a domicilio,10000,3891528
-229,retiro en sucursal,10000,3343921
-230,retiro en sucursal,10000,3729471
-231,retiro en sucursal,10000,3343921
-232,envío a domicilio,10000,3740174
-233,envío a domicilio,10000,3343921
-234,retiro en sucursal,10000,3891528
-235,retiro en sucursal,10000,3769891
-236,retiro en sucursal,8000,3512460
-237,retiro en sucursal,10000,3769891
-238,retiro en sucursal,10000,3740174
-239,envío a domicilio,8000,3512460
-240,envío a domicilio,10000,3729471
-241,retiro en sucursal,8000,3054482
-242,retiro en sucursal,10000,3740174
-243,retiro en sucursal,8000,3054482
-244,retiro en sucursal,10000,3891528
-245,envío a domicilio,10000,3891528
-246,retiro en sucursal,10000,3343921
-247,retiro en sucursal,8000,3512460
-248,envío a domicilio,10000,3729471
-249,envío a domicilio,8000,3054482
-250,retiro en sucursal,8000,3060905
+codigo_entrega,modalidad,precio_envio,codigo_pedido,calle,ciudad,provincia
+1,envío a domicilio,10000,2,Av. Santa Fe 2345,NULL,CABA
+2,retiro en sucursal,10000,7,Calle Florida 567,NULL,CABA
+3,retiro en sucursal,8000,9,Calle San Martín 456,La Plata,Bs As
+4,retiro en sucursal,10000,10,Av. Santa Fe 2345,NULL,CABA
+5,envío a domicilio,10000,14,Calle Thames 345,NULL,CABA
+6,retiro en sucursal,10000,15,Calle Florida 567,NULL,CABA
+7,retiro en sucursal,10000,17,Calle Thames 345,NULL,CABA
+8,retiro en sucursal,8000,24,Calle San Martín 456,La Plata,Bs As
+9,retiro en sucursal,8000,26,Calle San Martín 456,La Plata,Bs As
+10,envío a domicilio,10000,27,Av. Rivadavia 1234,NULL,CABA
+11,retiro en sucursal,10000,29,Av. Santa Fe 2345,NULL,CABA
+12,retiro en sucursal,10000,31,Av. Corrientes 789,NULL,CABA
+13,retiro en sucursal,10000,32,Calle Sarmiento 4567,NULL,CABA
+14,retiro en sucursal,10000,34,Av. Rivadavia 1234,NULL,CABA
+15,envío a domicilio,10000,36,Av. Santa Fe 2345,NULL,CABA
+16,retiro en sucursal,10000,38,Av. Rivadavia 1234,NULL,CABA
+17,envío a domicilio,8000,41,Calle San Martín 456,La Plata,Bs As
+18,retiro en sucursal,8000,44,Calle Maipú 234,San Isidro,Bs As
+19,envío a domicilio,10000,47,Calle Florida 567,NULL,CABA
+20,envío a domicilio,8000,50,Calle San Martín 456,La Plata,Bs As
+21,envío a domicilio,10000,51,Av. Santa Fe 2345,NULL,CABA
+22,envío a domicilio,8000,54,Av. Libertador 678,Vicente López,Bs A
+23,envío a domicilio,8000,56,Calle Belgrano 789,Tigre,Bs As
+24,envío a domicilio,10000,62,Av. Rivadavia 1234,NULL,CABA
+25,envío a domicilio,8000,63,Calle San Martín 456,La Plata,Bs As
+26,retiro en sucursal,10000,64,Calle Sarmiento 4567,NULL,CABA
+27,retiro en sucursal,10000,66,Av. Rivadavia 1234,NULL,CABA
+28,envío a domicilio,8000,70,Calle San Martín 456,La Plata,Bs As
+29,envío a domicilio,10000,76,Calle Florida 567,NULL,CABA
+30,retiro en sucursal,8000,77,Av. Libertador 678,Vicente López,Bs A
+31,retiro en sucursal,10000,78,Av. Rivadavia 1234,NULL,CABA
+32,retiro en sucursal,10000,79,Calle Thames 345,NULL,CABA
+33,retiro en sucursal,8000,82,Av. Libertador 678,Vicente López,Bs A
+34,envío a domicilio,10000,84,Av. Santa Fe 2345,NULL,CABA
+35,envío a domicilio,8000,85,Calle Belgrano 789,Tigre,Bs As
+36,retiro en sucursal,10000,86,Av. Santa Fe 2345,NULL,CABA
+37,envío a domicilio,10000,88,Calle Thames 345,NULL,CABA
+38,envío a domicilio,10000,90,Calle Sarmiento 4567,NULL,CABA
+39,envío a domicilio,8000,95,Calle San Martín 456,La Plata,Bs As
+40,envío a domicilio,10000,96,Av. Santa Fe 2345,NULL,CABA
+41,retiro en sucursal,8000,98,Calle Belgrano 789,Tigre,Bs As
+42,envío a domicilio,8000,99,Calle San Martín 456,La Plata,Bs As
+43,envío a domicilio,8000,100,Calle San Martín 456,La Plata,Bs As
+44,retiro en sucursal,10000,101,Av. Santa Fe 2345,NULL,CABA
+45,envío a domicilio,10000,103,Av. Rivadavia 1234,NULL,CABA
+46,envío a domicilio,10000,104,Calle Thames 345,NULL,CABA
+47,envío a domicilio,8000,105,Calle San Martín 456,La Plata,Bs As
+48,retiro en sucursal,10000,106,Av. Santa Fe 2345,NULL,CABA
+49,envío a domicilio,10000,107,Calle Thames 345,NULL,CABA
+50,envío a domicilio,8000,110,Calle Belgrano 789,Tigre,Bs As
+51,envío a domicilio,10000,113,Av. Santa Fe 2345,NULL,CABA
+52,retiro en sucursal,8000,114,Av. Libertador 678,Vicente López,Bs A
+53,envío a domicilio,10000,119,Av. Santa Fe 2345,NULL,CABA
+54,envío a domicilio,10000,121,Av. Santa Fe 2345,NULL,CABA
+55,retiro en sucursal,8000,122,Av. Libertador 678,Vicente López,Bs A
+56,envío a domicilio,8000,123,Av. Libertador 678,Vicente López,Bs A
+57,envío a domicilio,10000,127,Calle Thames 345,NULL,CABA
+58,retiro en sucursal,10000,129,Av. Corrientes 789,NULL,CABA
+59,envío a domicilio,8000,132,Av. Libertador 678,Vicente López,Bs A
+60,retiro en sucursal,10000,133,Av. Rivadavia 1234,NULL,CABA
+61,envío a domicilio,10000,136,Av. Rivadavia 1234,NULL,CABA
+62,retiro en sucursal,8000,137,Calle San Martín 456,La Plata,Bs As
+63,retiro en sucursal,10000,139,Calle Thames 345,NULL,CABA
+64,retiro en sucursal,10000,142,Av. Santa Fe 2345,NULL,CABA
+65,envío a domicilio,10000,143,Calle Thames 345,NULL,CABA
+66,retiro en sucursal,8000,144,Calle Belgrano 789,Tigre,Bs As
+67,retiro en sucursal,8000,146,Calle Belgrano 789,Tigre,Bs As
+68,envío a domicilio,10000,147,Calle Florida 567,NULL,CABA
+69,retiro en sucursal,10000,148,Av. Santa Fe 2345,NULL,CABA
+70,envío a domicilio,10000,149,Av. Corrientes 789,NULL,CABA
+71,retiro en sucursal,10000,152,Calle Thames 345,NULL,CABA
+72,envío a domicilio,10000,153,Calle Florida 567,NULL,CABA
+73,envío a domicilio,10000,154,Av. Rivadavia 1234,NULL,CABA
+74,retiro en sucursal,8000,157,Calle San Martín 456,La Plata,Bs As
+75,retiro en sucursal,8000,158,Av. Libertador 678,Vicente López,Bs A
+76,retiro en sucursal,10000,164,Av. Santa Fe 2345,NULL,CABA
+77,envío a domicilio,10000,165,Av. Santa Fe 2345,NULL,CABA
+78,envío a domicilio,8000,166,Calle Maipú 234,San Isidro,Bs As
+79,retiro en sucursal,8000,167,Av. Libertador 678,Vicente López,Bs A
+80,envío a domicilio,10000,169,Calle Florida 567,NULL,CABA
+81,retiro en sucursal,10000,172,Av. Rivadavia 1234,NULL,CABA
+82,retiro en sucursal,8000,174,Calle Maipú 234,San Isidro,Bs As
+83,envío a domicilio,8000,175,Av. Libertador 678,Vicente López,Bs A
+84,envío a domicilio,8000,179,Calle San Martín 456,La Plata,Bs As
+85,envío a domicilio,10000,180,Calle Sarmiento 4567,NULL,CABA
+86,envío a domicilio,8000,181,Calle San Martín 456,La Plata,Bs As
+87,envío a domicilio,10000,182,Calle Sarmiento 4567,NULL,CABA
+88,envío a domicilio,10000,183,Calle Sarmiento 4567,NULL,CABA
+89,envío a domicilio,10000,184,Av. Santa Fe 2345,NULL,CABA
+90,envío a domicilio,10000,185,Av. Rivadavia 1234,NULL,CABA
+91,retiro en sucursal,8000,186,Calle Belgrano 789,Tigre,Bs As
+92,envío a domicilio,10000,187,Calle Florida 567,NULL,CABA
+93,envío a domicilio,10000,189,Av. Corrientes 789,NULL,CABA
+94,retiro en sucursal,8000,191,Calle San Martín 456,La Plata,Bs As
+95,retiro en sucursal,8000,193,Calle Belgrano 789,Tigre,Bs As
+96,retiro en sucursal,10000,195,Av. Santa Fe 2345,NULL,CABA
+97,retiro en sucursal,10000,198,Calle Florida 567,NULL,CABA
+98,retiro en sucursal,10000,206,Av. Rivadavia 1234,NULL,CABA
+99,retiro en sucursal,8000,207,Calle Belgrano 789,Tigre,Bs As
+100,retiro en sucursal,8000,208,Calle San Martín 456,La Plata,Bs As
+101,envío a domicilio,10000,209,Calle Florida 567,NULL,CABA
+102,retiro en sucursal,10000,212,Calle Sarmiento 4567,NULL,CABA
+103,retiro en sucursal,10000,213,Av. Rivadavia 1234,NULL,CABA
+104,retiro en sucursal,8000,214,Calle Maipú 234,San Isidro,Bs As
+105,retiro en sucursal,10000,217,Calle Thames 345,NULL,CABA
+106,envío a domicilio,10000,218,Av. Corrientes 789,NULL,CABA
+107,envío a domicilio,10000,219,Calle Thames 345,NULL,CABA
+108,retiro en sucursal,10000,220,Calle Thames 345,NULL,CABA
+109,retiro en sucursal,10000,226,Calle Florida 567,NULL,CABA
+110,retiro en sucursal,10000,230,Av. Rivadavia 1234,NULL,CABA
+111,retiro en sucursal,10000,231,Calle Florida 567,NULL,CABA
+112,envío a domicilio,8000,232,Calle San Martín 456,La Plata,Bs As
+113,envío a domicilio,10000,234,Calle Sarmiento 4567,NULL,CABA
+114,envío a domicilio,8000,236,Calle Belgrano 789,Tigre,Bs As
+115,retiro en sucursal,10000,237,Calle Florida 567,NULL,CABA
+116,envío a domicilio,8000,239,Calle Belgrano 789,Tigre,Bs As
+117,envío a domicilio,10000,241,Calle Sarmiento 4567,NULL,CABA
+118,retiro en sucursal,10000,243,Calle Thames 345,NULL,CABA
+119,envío a domicilio,10000,245,Calle Thames 345,NULL,CABA
+120,retiro en sucursal,10000,246,Calle Florida 567,NULL,CABA
+121,envío a domicilio,8000,249,Calle Belgrano 789,Tigre,Bs As
+122,retiro en sucursal,10000,250,Av. Rivadavia 1234,NULL,CABA
