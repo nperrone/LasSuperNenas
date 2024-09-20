@@ -1,4 +1,4 @@
-Producto,Marca,Categoría,Código de Categoría,Código de Producto,Precio (ARS),Unidades Disponibles
+producto,marca,categoria,codigo_de_categoria,codigo_de_producto,precio,unidades_disponibles
 Perfume Eau de Parfum,Chanel,fragancias,1,163801,543.78,51
 Perfume Eau de Toilette,Dior,fragancias,1,360187,3604.02,32
 Colonia,Calvin Klein,fragancias,1,770629,1866.89,93
