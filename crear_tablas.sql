@@ -73,5 +73,3 @@ CREATE TABLE WISHLISTS (
     FOREIGN KEY (numero_documento) REFERENCES USUARIOS(numero_documento),
     FOREIGN KEY (codigo_producto) REFERENCES PRODUCTOS(codigo_producto)
 );
-
--- DROP TABLE IF EXISTS categorias, categorias_productos, entregas, pagos, pedidos, pedidos_productos, productos, promociones, promociones_categorias, usuarios, wishlist CASCADE;
