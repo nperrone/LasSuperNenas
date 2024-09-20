@@ -1,4 +1,4 @@
-producto,marca,categoria,codigo_de_categoria,codigo_de_producto,precio,unidades_disponibles
+producto,marca,categoria,codigo_categoria,codigo_producto,precio,unidades_disponibles
 CHANCE Eau de Parfum,Chanel,fragancias,1,163801,543.78,51
 Sauvage Eau de Toilette,Dior,fragancias,1,360187,3604.02,32
 Colonia,Calvin Klein,fragancias,1,770629,1866.89,93
@@ -14,17 +14,17 @@ One Million Eau de Toilette,Paco Rabanne,fragancias,1,823487,1627.44,34
 Tommy Men,Tommy Hilfiger,fragancias,1,123451,4410.5,70
 K Eau de Parfum,Dolce & Gabbana,fragancias,1,402644,3442.02,25
 Terre Eau de Toilette,Hermès,fragancias,1,949271,3533.81,89
-Perfume Eau de Parfum,Bvlgari,fragancias,1,902397,3751.46,80
-Base de Maquillaje,Maybelline,maquillaje,2,735724,2888.83,100
-Labial Mate,Mac,maquillaje,2,182080,1250.59,30
-Máscara de Pestañas,L'Oréal,maquillaje,2,387075,1234.15,46
+Glacial Essence Eau de Parfum,Bvlgari,fragancias,1,902397,3751.46,80
+Base Superstay Foundation Full Coverage,Maybelline,maquillaje,2,735724,2888.83,100
+Powder Kiss Labial Mate,Mac,maquillaje,2,182080,1250.59,30
+Lash Sensational Sky High,L'Oréal,maquillaje,2,387075,1234.15,46
 Corrector,NARS,maquillaje,2,338795,3263.58,54
 Delineador Líquido,Kat Von D,maquillaje,2,363125,1575.7,94
 Polvo Compacto,Rimmel,maquillaje,2,919686,2497.61,13
 Rubor,Benefit,maquillaje,2,778566,890.34,22
-Paleta de Sombras,Urban Decay,maquillaje,2,832848,1816.8,84
+Naked 3 Paleta de Sombras de Ojos,Urban Decay,maquillaje,2,832848,1816.8,84
 Iluminador,Becca,maquillaje,2,405666,4526.06,60
-Labial Líquido,Huda Beauty,maquillaje,2,972979,2659.47,71
+Labial Líquido,Simplicity,maquillaje,2,972979,2659.47,71
 Cejas en Gel,Anastasia Beverly Hills,maquillaje,2,669963,2139.97,20
 Delineador en Gel,Bobbi Brown,maquillaje,2,380388,2267.12,16
 Bronceador,Fenty Beauty,maquillaje,2,284207,3161.1,31
@@ -63,35 +63,35 @@ Loción Hidratante,Aveeno,cuidado de la piel,4,757476,2265.68,81
 Mascarilla de Noche,Laneige,cuidado de la piel,4,502378,3427.08,51
 Serum Vitamina C,Olay,cuidado de la piel,4,891931,1631.97,66
 Protector Solar Facial,Eucerin,cuidado de la piel,4,264891,1028.7,10
-Gafas de Sol,Ray-Ban,moda,5,410180,1658.17,12
+RB 1973 Square II Gafas de Sol,Ray-Ban,moda,5,410180,1658.17,12
 Reloj,Casio,moda,5,707464,1059.77,50
 Bolso,Michael Kors,moda,5,781170,4208.25,100
 Zapatillas,Nike,moda,5,336783,693.2,20
-Camisa,Tommy Hilfiger,moda,5,385379,4894.96,40
-Cinturón de Cuero,Hugo Boss,moda,5,676057,2934.92,86
-Abrigo,Zara,moda,5,991832,3109.52,37
+RB 8313M Aviator Ferrari Gafas de sol,Ray-Ban,moda,5,385379,4894.96,40
+Cinturón de Cuero Vegano,Hugo Jefe,moda,5,676057,2934.92,86
+RB 2299 Lady Burbank, Ray-Ban,moda,5,991832,3109.52,37
 Chaqueta,Levi's,moda,5,986676,1094.53,67
-Bufanda,Burberry,moda,5,815590,886.77,61
+Tote Bag Wav Cuadrille Lila y Blanco,WAVE,moda,5,815590,886.77,61
 Gorra,New Era,moda,5,470493,1639.83,90
-Cartera,Guess,moda,5,275788,4950.51,12
-Vestido,H&M,moda,5,117108,2067.94,80
-Zapatillas Deportivas,Adidas,moda,5,726393,3882.63,68
-Mochila,The North Face,moda,5,726843,3872.0,45
-Sombrero,Lacoste,moda,5,327799,1994.38,74
+Cubrepezones Circular Studio 9 Silicona,STUDIO 9,moda,5,275788,4950.51,12
+Cartera de Silicona Fun Kids Arcoíris,WAVE,moda,5,117108,2067.94,80
+Aritos de Perlas,TodoModa,moda,5,726393,3882.63,68
+Mochila,Como Quieres,moda,5,726843,3872.0,45
+Llavero Borlas,Lazaro,moda,5,327799,1994.38,74
 Billetera,Fossil,moda,5,402370,1092.23,17
-Pendientes,Pandora,accesorios,6,508349,1655.41,72
-Anillo,Swarovski,accesorios,6,627794,4330.39,35
-Collar,Tiffany & Co.,accesorios,6,173848,768.17,74
-Pulsera,Cartier,accesorios,6,466483,4960.93,60
-Sombrero,Ralph Lauren,accesorios,6,478200,958.92,10
-Gafas de Lectura,Oakley,accesorios,6,186173,4267.93,22
-Guantes,The North Face,accesorios,6,980050,2303.54,27
-Cinturón,Gucci,accesorios,6,341914,1419.19,22
-Llavero,Louis Vuitton,accesorios,6,310017,3111.09,44
-Pañuelo,Hermès,accesorios,6,748329,3620.42,50
+Aritos de Corazón,TodoModa,accesorios,6,508349,1655.41,72
+Anillo de Resina,Gomez Pazos,accesorios,6,627794,4330.39,35
+Collar,Argento,accesorios,6,173848,768.17,74
+Pulsera de Corazones,Castillo,accesorios,6,466483,4960.93,60
+Sombrero,TodoModa,accesorios,6,478200,958.92,10
+Gafas de Lectura,Perrone,accesorios,6,186173,4267.93,22
+Set de Mini Scrunchies Basics Nudes y Negro x 8,WAVE,accesorios,6,980050,2303.54,27
+Set de Hebillas y Gomitas Elásticas Unicornio Fun Kids x 6,WAVE,accesorios,6,341914,1419.19,22
+Gafas de Unicornio,TodoModa,accesorios,6,310017,3111.09,44
+Pañuelo Con Estampa,Trendy Icon,accesorios,6,748329,3620.42,50
 Reloj,Fossil,accesorios,6,416483,1551.43,70
-Broche,Chanel,accesorios,6,609752,4218.2,27
-Monedero,Michael Kors,accesorios,6,566683,769.62,97
-Diadema,Prada,accesorios,6,212204,1201.68,76
-Bolso de Mano,Coach,accesorios,6,943697,830.88,43
-Gemelos,Montblanc,accesorios,6,247315,1727.31,59
+Broche,TodoModa,accesorios,6,609752,4218.2,27
+Monedero de Unicorio,Michael Korsa,accesorios,6,566683,769.62,97
+Gomitas de Pelo Wav Glitter Rosa x 8,WAVE,accesorios,6,212204,1201.68,76
+Set Gomitas de Pelo Wav Medianas Negras x 6,WAVE,accesorios,6,943697,830.88,43
+Hebillas con Perlas,TodoModa,accesorios,6,247315,1727.31,59
