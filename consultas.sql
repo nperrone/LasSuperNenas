@@ -17,8 +17,6 @@ JOIN pedidos_productos ON pedidos.codigo_pedido = pedidos_productos.codigo_pedid
 JOIN productos ON pedidos_productos.codigo_producto = productos.codigo_producto
 WHERE productos.nombre = 'Sauvage Eau de Toilette';
 
--- ¿Cuántas unidades de un producto específico se han vendido en marzo de este año?
-
 -- ¿Qué categorías de productos tienen más productos asociados?
 SELECT c.nombre, COUNT(p.codigo_producto) AS total_productos
 FROM categorias c
@@ -58,8 +56,6 @@ JOIN pedidos_productos ON pedidos.codigo_pedido = pedidos_productos.codigo_pedid
 JOIN productos ON pedidos_productos.codigo_producto = productos.codigo_producto
 GROUP BY usuarios.numero_documento;
 
--- ¿Qué porcentaje de usuarios vive en la Ciudad Autónoma de Buenos Aires (CABA)?
-
 -- ¿Cuáles son los productos más vendidos dentro de cada categoría?
 SELECT categorias.nombre AS categoria, productos.nombre AS producto, SUM(pedidos_productos.cantidad) AS total_vendido
 FROM categorias
@@ -68,4 +64,7 @@ JOIN pedidos_productos ON productos.codigo_producto = pedidos_productos.codigo_p
 GROUP BY categorias.nombre, productos.nombre
 ORDER BY categorias.nombre, total_vendido DESC;
 
--- ¿Cuál es el producto más comprado de la promoción X? (ejemplo: promoción con código '2')
+-- ¿Qué porcentaje de productos fueron entregados en la Ciudad Autónoma de Buenos Aires (CABA)?
+SELECT (COUNT(*) * 100.0 / (SELECT COUNT(*) FROM entregas)) AS porcentaje_entregas_caba
+FROM entregas
+WHERE entregas.provincia = 'CABA';
