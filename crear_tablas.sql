@@ -13,7 +13,7 @@ CREATE TABLE PRODUCTOS (
 );
 
 CREATE TABLE USUARIOS (
-    numero_documento VARCHAR(255) PRIMARY KEY,
+    numero_documento INT PRIMARY KEY, -- estaba mal en el csv. INT
     nombre VARCHAR(255) NOT NULL,
     apellido VARCHAR(255) NOT NULL,
     numero_telefono VARCHAR(20) NOT NULL UNIQUE,
@@ -35,7 +35,7 @@ CREATE TABLE PEDIDOS (
     monto DECIMAL(10, 2) NOT NULL,
     estado VARCHAR(50),
     factura VARCHAR(100),
-    numero_documento VARCHAR(255),
+    numero_documento INT,
     FOREIGN KEY (numero_documento) REFERENCES USUARIOS(numero_documento),
     FOREIGN KEY (factura) REFERENCES PAGOS(factura)
 );
@@ -44,7 +44,7 @@ CREATE TABLE ENTREGAS (
     codigo_entrega SERIAL PRIMARY KEY,
     modalidad VARCHAR(50),
     precio_envio DECIMAL(10, 2) NOT NULL,
-    numero_documento VARCHAR(255),
+    numero_documento INT,
     FOREIGN KEY (numero_documento) REFERENCES USUARIOS(numero_documento)
 );
 
@@ -76,7 +76,7 @@ CREATE TABLE CATEGORIAS_PRODUCTOS (
 );
 
 CREATE TABLE WISHLIST (
-    numero_documento VARCHAR(255),
+    numero_documento INT,
     codigo_producto INT,
     PRIMARY KEY (numero_documento, codigo_producto),
     FOREIGN KEY (numero_documento) REFERENCES USUARIOS(numero_documento),
