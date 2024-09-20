@@ -1,4 +1,4 @@
-producto,marca,categoria,codigo_categoria,codigo_producto,precio,unidades
+nombre,marca,codigo_categoria,codigo_categoria,codigo_producto,precio,unidades
 CHANCE Eau de Parfum,Chanel,fragancias,1,163801,543.78,51
 Sauvage Eau de Toilette,Dior,fragancias,1,360187,3604.02,32
 Colonia,Calvin Klein,fragancias,1,770629,1866.89,93
