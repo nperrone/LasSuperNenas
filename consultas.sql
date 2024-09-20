@@ -17,7 +17,7 @@ JOIN pedidos_productos ON pedidos.codigo_pedido = pedidos_productos.codigo_pedid
 JOIN productos ON pedidos_productos.codigo_producto = productos.codigo_producto
 WHERE productos.nombre = 'Sauvage Eau de Toilette';
 
--- (4) ¿Qué categorías de productos tienen más productos asociados?
+-- (4) Mostrar las categorías ordenadas según la cantidad de productos que tengan (descendiente)
 SELECT c.nombre, COUNT(p.codigo_producto) AS total_productos
 FROM categorias c
 JOIN productos p ON c.codigo_categoria = p.codigo_categoria
@@ -25,17 +25,17 @@ GROUP BY c.nombre
 ORDER BY total_productos DESC;
 
 -- (5) Nombre del top 10 de usuarios que han realizado compras en más de una categoría
-SELECT u.numero_documento, u.nombre, u.apellido, COUNT(DISTINCT p.codigo_categoria) AS total_categorias
+SELECT u.nombre, u.apellido
 FROM usuarios u
 JOIN pedidos pe ON u.numero_documento = pe.numero_documento
 JOIN pedidos_productos pp ON pe.codigo_pedido = pp.codigo_pedido
 JOIN productos p ON pp.codigo_producto = p.codigo_producto
 GROUP BY u.numero_documento, u.nombre, u.apellido
 HAVING COUNT(DISTINCT p.codigo_categoria) > 1
-ORDER BY total_categorias DESC
+ORDER BY COUNT(DISTINCT p.codigo_categoria) DESC
 LIMIT 10;
 
--- (6) ¿Qué usuarios han realizado más de 5 compras durante el último año? Dar nombre, Apellido y total de compras.
+-- (6) ¿Qué usuarios han realizado más de 5 compras durante el último año? Dar nombre, apellido y total de compras
 SELECT u.nombre, u.apellido, COUNT(pe.codigo_pedido) AS total_compras
 FROM usuarios u
 JOIN pedidos pe ON u.numero_documento = pe.numero_documento
@@ -58,7 +58,7 @@ JOIN pedidos_productos ON pedidos.codigo_pedido = pedidos_productos.codigo_pedid
 JOIN productos ON pedidos_productos.codigo_producto = productos.codigo_producto
 GROUP BY usuarios.numero_documento;
 
--- (9) ¿Cuáles son los productos más vendidos dentro de cada categoría? Devolver solamente los nombres de los productos y su respectiva categoría.
+-- (9) ¿Cuáles son los productos más vendidos dentro de cada categoría? 
 WITH ventas_categoria AS (
     SELECT categorias.nombre AS categoria, productos.nombre AS producto, 
            SUM(pedidos_productos.cantidad) AS total_vendido,
