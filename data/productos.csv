@@ -1,4 +1,4 @@
-nombre,marca,codigo_producto,precio,unidades
+nombre,marca,codigo_categoria,codigo_producto,precio,unidades
 CHANCE Eau de Parfum,Chanel,1,163801,543.78,51
 Sauvage Eau de Toilette,Dior,1,360187,3604.02,32
 Colonia,Calvin Klein,1,770629,1866.89,93
@@ -80,18 +80,18 @@ Tarjetero Have a Nice Day de Cuero,Como Quieres,5,726843,3872.0,45
 Llavero Borlas,Lazaro,5,327799,1994.38,74
 Tarjetero Gatito Glitter,Como Quieres,5,402370,1092.23,17
 Aritos de Corazón,Todoaccesorios,6,508349,1655.41,72
-Anillo de Resina Con Glitter,Gomez Pazos,,6,627794,4330.39,35
-Vincha Rigida con Nudo Marfil,WAVE,,6,173848,768.17,74
-Pulsera de Corazones,Castillo,,6,466483,4960.93,60
+Anillo de Resina Con Glitter,Gomez Pazos,6,627794,4330.39,35
+Vincha Rigida con Nudo Marfil,WAVE,6,173848,768.17,74
+Pulsera de Corazones,Castillo,6,466483,4960.93,60
 Sombrero,Todoaccesorios,6,478200,958.92,10
-Gafas de Lectura,Perrone,,6,186173,4267.93,22
-Set de Mini Scrunchies Basics Nudes y Negro x 8,WAVE,,6,980050,2303.54,27
-Set de Hebillas y Gomitas Elásticas Unicornio Fun Kids x 6,WAVE,,6,341914,1419.19,22
+Gafas de Lectura,Perrone,6,186173,4267.93,22
+Set de Mini Scrunchies Basics Nudes y Negro x 8,WAVE,6,980050,2303.54,27
+Set de Hebillas y Gomitas Elásticas Unicornio Fun Kids x 6,WAVE,6,341914,1419.19,22
 Gafas de Unicornio,Todoaccesorios,6,310017,3111.09,44
-Pañuelo Con Estampa,Trendy Icon,,6,748329,3620.42,50
-Set de Vinchas Rígidas Negra y Carey x 2,WAVE,,6,416483,1551.43,70
+Pañuelo Con Estampa,Trendy Icon,6,748329,3620.42,50
+Set de Vinchas Rígidas Negra y Carey x 2,WAVE,6,416483,1551.43,70
 Broche,Todoaccesorios,6,609752,4218.2,27
-Monedero de Unicorio,Michael Korsa,,6,566683,769.62,97
-Gomitas de Pelo Wav Glitter Rosa x 8,WAVE,,6,212204,1201.68,76
-Set Gomitas de Pelo Wav Medianas Negras x 6,WAVE,,6,943697,830.88,43
+Monedero de Unicorio,Michael Korsa,6,566683,769.62,97
+Gomitas de Pelo Wav Glitter Rosa x 8,WAVE,6,212204,1201.68,76
+Set Gomitas de Pelo Wav Medianas Negras x 6,WAVE,6,943697,830.88,43
 Hebillas con Perlas,Todoaccesorios,6,247315,1727.31,59
