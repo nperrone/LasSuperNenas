@@ -1,25 +1,24 @@
-CREATE TABLE CATEGORIAS (
+CREATE TABLE CATEGORIA (
     codigo_categoria SERIAL PRIMARY KEY,
-    nombre VARCHAR(100) NOT NULL
+    nombre VARCHAR(255) NOT NULL UNIQUE
 );
 
-CREATE TABLE PRODUCTOS (
+CREATE TABLE PRODUCTO (
+    nombre VARCHAR(255) NOT NULL,
+    marca VARCHAR(255),
+    codigo_categoria INT REFERENCES CATEGORIA(codigo_categoria)
     codigo_producto SERIAL PRIMARY KEY,
-    nombre VARCHAR(100) NOT NULL,
-    marca VARCHAR(100),
-    precio DECIMAL(10, 2) NOT NULL,
-    unidades INT NOT NULL,
-    codigo_categoria INT,
-    FOREIGN KEY (codigo_categoria) REFERENCES CATEGORIAS(codigo_categoria)
+    precio DECIMAL(10, 2),
+    unidades INT,
 );
 
 CREATE TABLE USUARIOS (
-    numero_documento VARCHAR(20) PRIMARY KEY,
-    nombre VARCHAR(100) NOT NULL,
-    apellido VARCHAR(100) NOT NULL,
-    direccion VARCHAR(255),
-    email VARCHAR(100) UNIQUE NOT NULL,
-    numero_telefono VARCHAR(15) UNIQUE NOT NULL
+    numero_documento BIGINT PRIMARY KEY,
+    nombre VARCHAR(255) NOT NULL,
+    apellido VARCHAR(255) NOT NULL,
+    numero_telefono VARCHAR(20) UNIQUE
+    email VARCHAR(255) NOT NULL UNIQUE,
+    domicilio VARCHAR(255),
 );
 
 CREATE TABLE PEDIDOS (
@@ -27,17 +26,17 @@ CREATE TABLE PEDIDOS (
     fecha DATE NOT NULL,
     monto DECIMAL(10, 2) NOT NULL,
     estado VARCHAR(50),
-    comprobante_pago VARCHAR(100),
+    factura VARCHAR(100),
     numero_documento VARCHAR(20),
     FOREIGN KEY (numero_documento) REFERENCES USUARIOS(numero_documento)
 );
 
 CREATE TABLE ENTREGAS (
     codigo_entrega SERIAL PRIMARY KEY,
-    precio_envio DECIMAL(10, 2) NOT NULL,
     modalidad VARCHAR(50),
     direccion VARCHAR(255),
-    dni VARCHAR(20)
+    precio_envio DECIMAL(10, 2) NOT NULL,
+    numero_documento VARCHAR(20)
 );
 
 CREATE TABLE PAGOS (
@@ -56,15 +55,7 @@ CREATE TABLE PROMOCIONES (
     FOREIGN KEY (codigo_categoria) REFERENCES CATEGORIAS(codigo_categoria)
 );
 
-CREATE TABLE PROMOCION_PRODUCTO (
-    codigo_promocion INT,
-    codigo_producto INT,
-    PRIMARY KEY (codigo_promocion, codigo_producto),
-    FOREIGN KEY (codigo_promocion) REFERENCES PROMOCIONES(codigo_promocion),
-    FOREIGN KEY (codigo_producto) REFERENCES PRODUCTOS(codigo_producto)
-);
-
-CREATE TABLE PEDIDO_PRODUCTO (
+CREATE TABLE PEDIDOS_PRODUCTOS (
     codigo_pedido INT,
     codigo_producto INT,
     cantidad INT NOT NULL,
@@ -73,7 +64,7 @@ CREATE TABLE PEDIDO_PRODUCTO (
     FOREIGN KEY (codigo_producto) REFERENCES PRODUCTOS(codigo_producto)
 );
 
-CREATE TABLE CATEGORIA_PRODUCTO (
+CREATE TABLE CATEGORIAS_PRODUCTOS (
     codigo_categoria INT,
     codigo_producto INT,
     PRIMARY KEY (codigo_categoria, codigo_producto),
@@ -81,10 +72,18 @@ CREATE TABLE CATEGORIA_PRODUCTO (
     FOREIGN KEY (codigo_producto) REFERENCES PRODUCTOS(codigo_producto)
 );
 
-CREATE TABLE USUARIO_PRODUCTO (
+CREATE TABLE WISHLIST (
     numero_documento VARCHAR(20),
     codigo_producto INT,
     PRIMARY KEY (numero_documento, codigo_producto),
     FOREIGN KEY (numero_documento) REFERENCES USUARIOS(numero_documento),
     FOREIGN KEY (codigo_producto) REFERENCES PRODUCTOS(codigo_producto)
+);
+
+CREATE TABLE PROMOCIONES_CATEGORIAS (
+    codigo_promocion INT,
+    codigo_categoria INT,
+    PRIMARY KEY (codigo_promocion, codigo_categoria),
+    FOREIGN KEY (codigo_promocion) REFERENCES PROMOCIONES(codigo_promocion),
+    FOREIGN KEY (codigo_categoria) REFERENCES CATEGORIA(codigo_categoria)
 );
