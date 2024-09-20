@@ -10,15 +10,15 @@ COPY USUARIOS FROM 'C:/Program Files/PostgreSQL/17/data/CSV/usuarios.csv'
 	DELIMITER ',' 
 	CSV HEADER; 
 
+COPY PAGOS FROM 'C:/Program Files/PostgreSQL/17/data/CSV/pagos.csv' 
+	DELIMITER ',' 
+	CSV HEADER; 
+
 COPY PEDIDOS FROM 'C:/Program Files/PostgreSQL/17/data/CSV/pedidos.csv' 
 	DELIMITER ',' 
 	CSV HEADER; 
 
 COPY ENTREGAS FROM 'C:/Program Files/PostgreSQL/17/data/CSV/entregas.csv' 
-	DELIMITER ',' 
-	CSV HEADER; 
-
-COPY PAGOS FROM 'C:/Program Files/PostgreSQL/17/data/CSV/pagos.csv' 
 	DELIMITER ',' 
 	CSV HEADER; 
 
@@ -30,14 +30,6 @@ COPY PEDIDOS_PRODUCTOS FROM 'C:/Program Files/PostgreSQL/17/data/CSV/pedidos-pro
 	DELIMITER ',' 
 	CSV HEADER; 
 
-COPY CATEGORIAS_PRODUCTOS FROM 'C:/Program Files/PostgreSQL/17/data/CSV/categorias-productos.csv' 
-	DELIMITER ',' 
-	CSV HEADER; 
-
-COPY WISHLIST FROM 'C:/Program Files/PostgreSQL/17/data/CSV/usuarios-productos.csv' 
-	DELIMITER ',' 
-	CSV HEADER; 
-
-COPY PROMOCIONES_CATEGORIAS FROM 'C:/Program Files/PostgreSQL/17/data/CSV/promociones-categorias.csv' 
+COPY WISHLIST FROM 'C:/Program Files/PostgreSQL/17/data/CSV/wishlist.csv' 
 	DELIMITER ',' 
 	CSV HEADER; 

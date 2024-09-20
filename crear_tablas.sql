@@ -58,7 +58,7 @@ CREATE TABLE PROMOCIONES (
 );
 
 CREATE TABLE PEDIDOS_PRODUCTOS (
-    codigo_producto INT, -- algo raro acá?
+    codigo_producto INT, 
     codigo_pedido INT,
     cantidad INT NOT NULL,
     PRIMARY KEY (codigo_pedido, codigo_producto),
@@ -66,7 +66,7 @@ CREATE TABLE PEDIDOS_PRODUCTOS (
     FOREIGN KEY (codigo_producto) REFERENCES PRODUCTOS(codigo_producto)
 );
 
-CREATE TABLE WISHLIST (
+CREATE TABLE WISHLISTS (
     numero_documento INT,
     codigo_producto INT,
     PRIMARY KEY (numero_documento, codigo_producto),
